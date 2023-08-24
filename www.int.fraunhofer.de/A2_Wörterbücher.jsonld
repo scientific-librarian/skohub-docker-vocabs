@@ -1,49 +1,25 @@
 {
-  "id": "https://www.int.fraunhofer.de/A_Allgemeines",
+  "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
   "type": "Concept",
   "prefLabel": {
-    "en": "A_General",
-    "de": "A_Allgemeines"
+    "en": "A1_Dictionaries",
+    "de": "A2_Wörterbücher"
   },
   "altLabel": {
     "en": [
-      "Universal"
+      "Vocabulary"
     ],
     "de": [
-      "Universelles"
+      "Vokabularium"
     ]
   },
-  "hiddenLabel": {
-    "en": [
-      "hidden Note"
-    ],
-    "de": [
-      "verstecke Notiz"
-    ]
-  },
-  "narrower": [
-    {
-      "id": "https://www.int.fraunhofer.de/A0_Verschiedenes",
-      "prefLabel": {
-        "en": "A0_Various",
-        "de": "A0_Verschiedenes"
-      }
-    },
-    {
-      "id": "https://www.int.fraunhofer.de/A1_Lexika",
-      "prefLabel": {
-        "en": "A1_Lexica",
-        "de": "A1_Lexika"
-      }
-    },
-    {
-      "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
-      "prefLabel": {
-        "en": "A1_Dictionaries",
-        "de": "A2_Wörterbücher"
-      }
+  "broader": {
+    "id": "https://www.int.fraunhofer.de/A_Allgemeines",
+    "prefLabel": {
+      "en": "A_General",
+      "de": "A_Allgemeines"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
@@ -56,15 +32,6 @@
   "inSchemeAll": [
     {
       "id": "https://www.int.fraunhofer.de/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://www.int.fraunhofer.de/",
-      "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
-      }
     }
   ],
   "@context": {

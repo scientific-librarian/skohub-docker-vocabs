@@ -35,6 +35,13 @@
         "en": "A1_Lexica",
         "de": "A1_Lexika"
       }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
+      "prefLabel": {
+        "en": "A1_Dictionaries",
+        "de": "A2_Wörterbücher"
+      }
     }
   ],
   "inScheme": [
