@@ -28,6 +28,20 @@
         "en": "M0_General, Textbook",
         "de": "M0_Allgemeines, Lehrbücher"
       }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/M1_Tabellen_Nachschlagewerke",
+      "prefLabel": {
+        "en": "M1_Tables, Reference books",
+        "de": "M1_Tabellen, Nachschlagewerke"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/M2_Algebra_Gruppentheorie_Geometrie_Arimetrie_Zahlentheorie",
+      "prefLabel": {
+        "en": "M2_Algebra, Group theory, Geometry, Arimetry, Theory of Numbers",
+        "de": "M2_Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie"
+      }
     }
   ],
   "inScheme": [
