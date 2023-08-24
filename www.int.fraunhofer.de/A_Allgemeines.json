@@ -28,6 +28,13 @@
         "en": "A0_Various",
         "de": "A0_Verschiedenes"
       }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/A1_Lexika",
+      "prefLabel": {
+        "en": "A1_Lexica",
+        "de": "A1_Lexika"
+      }
     }
   ],
   "inScheme": [
