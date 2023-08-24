@@ -1,16 +1,16 @@
 {
-  "id": "https://www.int.fraunhofer.de/A_Allgemeines",
+  "id": "https://www.int.fraunhofer.de/BC_Biowissenschaften_Chemie_Kernchemie_Pharmamedizin",
   "type": "Concept",
   "prefLabel": {
-    "en": "A_General",
-    "de": "A_Allgemeines"
+    "en": "BC_Bioscience, chemistry, nuclear chemistry, pharmaceutical medicine",
+    "de": ":BC_Biowissenschaften, Chemie, Kernchemie, Pharmamedizin"
   },
   "altLabel": {
     "en": [
-      "A_Universal"
+      "biology, chemistry, medicine"
     ],
     "de": [
-      "A_Universelles"
+      "BC_Biologie, Chemie, Medizin"
     ]
   },
   "hiddenLabel": {
@@ -21,29 +21,6 @@
       "verstecke Notiz"
     ]
   },
-  "narrower": [
-    {
-      "id": "https://www.int.fraunhofer.de/A0_Verschiedenes",
-      "prefLabel": {
-        "en": "A0_Various",
-        "de": "A0_Verschiedenes"
-      }
-    },
-    {
-      "id": "https://www.int.fraunhofer.de/A1_Lexika",
-      "prefLabel": {
-        "en": "A1_Lexica",
-        "de": "A1_Lexika"
-      }
-    },
-    {
-      "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
-      "prefLabel": {
-        "en": "A1_Dictionaries",
-        "de": "A2_Wörterbücher"
-      }
-    }
-  ],
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
