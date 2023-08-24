@@ -2,12 +2,12 @@
   "id": "https://www.int.fraunhofer.de/DI_Datenverarbeitung_Informatik_Informationsverarbeitung_Programmiersprache_Künstliche_Intelligenz",
   "type": "Concept",
   "prefLabel": {
-    "en": "DI_ Data proceesing, Informatics, Information processing, Programming language, artificial intelligence",
-    "de": ":DI_Datenverarbeitung, Informatik, Informationsverarbeitung, Programmiersprache, Künstliche Intelligenz"
+    "en": "DI_Data proceesing, Informatics, Information processing, Programming language, artificial intelligence",
+    "de": "DI_Datenverarbeitung, Informatik, Informationsverarbeitung, Programmiersprache, Künstliche Intelligenz"
   },
   "altLabel": {
     "en": [
-      "Data science, AI"
+      "DI_Data science, AI"
     ],
     "de": [
       "DI_Dateninformatik, KI"

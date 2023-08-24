@@ -2,15 +2,15 @@
   "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
   "type": "Concept",
   "prefLabel": {
-    "en": "A1_Dictionaries",
+    "en": "A2_Dictionaries",
     "de": "A2_Wörterbücher"
   },
   "altLabel": {
     "en": [
-      "Vocabulary"
+      "A2_Vocabulary"
     ],
     "de": [
-      "Vokabularium"
+      "A2_Vokabularium"
     ]
   },
   "broader": {

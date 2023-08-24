@@ -1,25 +1,35 @@
 {
-  "id": "https://www.int.fraunhofer.de/A1_Lexika",
+  "id": "https://www.int.fraunhofer.de/M_Mathematik",
   "type": "Concept",
   "prefLabel": {
-    "en": "A1_Lexica",
-    "de": "A1_Lexika"
+    "en": "M_Mathematics",
+    "de": "M_Mathematik"
   },
   "altLabel": {
     "en": [
-      "General reference works"
+      "M_Math"
     ],
     "de": [
-      "allgemeine Nachschlagewerke"
+      "M_Mathe"
     ]
   },
-  "broader": {
-    "id": "https://www.int.fraunhofer.de/A_Allgemeines",
-    "prefLabel": {
-      "en": "A_General",
-      "de": "A_Allgemeines"
-    }
+  "hiddenLabel": {
+    "en": [
+      "hidden Note"
+    ],
+    "de": [
+      "verstecke Notiz"
+    ]
   },
+  "narrower": [
+    {
+      "id": "https://www.int.fraunhofer.de/M0_Allgemeines_Lehrbücher",
+      "prefLabel": {
+        "en": "M0_General, Textbook",
+        "de": "M0_Allgemeines, Lehrbücher"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
@@ -32,6 +42,15 @@
   "inSchemeAll": [
     {
       "id": "https://www.int.fraunhofer.de/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://www.int.fraunhofer.de/",
+      "title": {
+        "en": "Classification of the Fraunhofer INT library",
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+      }
     }
   ],
   "@context": {

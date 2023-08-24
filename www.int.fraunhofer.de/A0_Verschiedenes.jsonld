@@ -5,6 +5,14 @@
     "en": "A0_Various",
     "de": "A0_Verschiedenes"
   },
+  "altLabel": {
+    "en": [
+      "A0_Miscellaneous"
+    ],
+    "de": [
+      "A0_Diverses"
+    ]
+  },
   "broader": {
     "id": "https://www.int.fraunhofer.de/A_Allgemeines",
     "prefLabel": {

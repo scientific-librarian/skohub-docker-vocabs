@@ -3,11 +3,11 @@
   "type": "Concept",
   "prefLabel": {
     "en": "BC_Bioscience, chemistry, nuclear chemistry, pharmaceutical medicine",
-    "de": ":BC_Biowissenschaften, Chemie, Kernchemie, Pharmamedizin"
+    "de": "BC_Biowissenschaften, Chemie, Kernchemie, Pharmamedizin"
   },
   "altLabel": {
     "en": [
-      "biology, chemistry, medicine"
+      "BC_biology, chemistry, medicine"
     ],
     "de": [
       "BC_Biologie, Chemie, Medizin"

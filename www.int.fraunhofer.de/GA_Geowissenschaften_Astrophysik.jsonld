@@ -3,14 +3,14 @@
   "type": "Concept",
   "prefLabel": {
     "en": "GA_Geosciences, Astrophysics",
-    "de": ":GA_Geowissenschaften, Astrophysik"
+    "de": "GA_Geowissenschaften, Astrophysik"
   },
   "altLabel": {
     "en": [
-      "GA_Geography, Astronomy"
+      "Geography, Astronomy"
     ],
     "de": [
-      "GA_Geographie, Astronomie"
+      "Geographie, Astronomie"
     ]
   },
   "hiddenLabel": {
