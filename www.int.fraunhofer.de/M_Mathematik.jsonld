@@ -42,6 +42,27 @@
         "en": "M2_Algebra, Group theory, Geometry, Arimetry, Theory of Numbers",
         "de": "M2_Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie"
       }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/M3_Analysis_Funktionsanalysis_Funktionstheorie_Spezielle_Funktionen",
+      "prefLabel": {
+        "en": "M3_Analysis, Functional analysis, Functional theory, Special functions",
+        "de": "M3_Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/M4_Statistik_Wahrscheinlichkeitsrechnung",
+      "prefLabel": {
+        "en": "M4_Statistics, Probability calculation",
+        "de": "M4_Statistik, Wahrscheinlichkeitsrechnung"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/M5_Numerische_Mathematik",
+      "prefLabel": {
+        "en": "M5_Numerical mathematics",
+        "de": "M5 Numerische Mathematik"
+      }
     }
   ],
   "inScheme": [
