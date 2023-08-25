@@ -2,15 +2,15 @@
   "id": "https://www.int.fraunhofer.de/A_Allgemeines",
   "type": "Concept",
   "prefLabel": {
-    "en": "A General",
-    "de": "A Allgemeines"
+    "en": "A_General",
+    "de": "A_Allgemeines"
   },
   "altLabel": {
     "en": [
-      "A Universal"
+      "A_Universal"
     ],
     "de": [
-      "A Universelles"
+      "A_Universelles"
     ]
   },
   "hiddenLabel": {
