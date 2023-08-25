@@ -39,7 +39,7 @@
     {
       "id": "https://www.int.fraunhofer.de/P2_Mathematische_Mehtoden_der_Physik",
       "prefLabel": {
-        "en": "P2_Mathematical methods of physics",
+        "en": "P2_Mathematical methods of Physics",
         "de": "P2_Mathematische Mehtoden der Physik"
       }
     },
@@ -53,8 +53,36 @@
     {
       "id": "https://www.int.fraunhofer.de/P4_Atomphysik_Festkörperphysik_Strahlungseffekte_Halbleiterphysik",
       "prefLabel": {
-        "en": "P4_Atomic physics, Solid state physics, Radiation effects, Semiconductor physics",
+        "en": "P4_Atomic Physics, Solid state Physics, Radiation effects, Semiconductor Physics",
         "de": "P4_Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/P5_Mechanik_Hydrodynamik_Gasdynamik_Ballistik_Synergetik",
+      "prefLabel": {
+        "en": "P5_Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic",
+        "de": "P5 Mechanik, Hydrodynamik, Gasdynamik, Ballistik, Synergetik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/P6_Thermodynamik_Statistische_Physik_Transporttheorie",
+      "prefLabel": {
+        "en": "P6_Thermodynamics, Statistical Physics, Transportation theory",
+        "de": "P6_Thermodynamik, Statistische Physik, Transporttheorie"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/P7_Optik_Elektrizität_Magnetismus_elektromagnetische_Felder",
+      "prefLabel": {
+        "en": "P7_Optics, Electricity, Magnetism, Electromagnetic fields",
+        "de": "P7_Optik, Elektrizität, Magnetismus, elektromagnetische Felder"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/P8_Plasmaphysik_Fusion_Hochtemperaturphysik",
+      "prefLabel": {
+        "en": "P8_Plasma Physics, Fusion, High-Temperature Physics",
+        "de": "P8_Plasmaphysik, Fusion, Hochtemperaturphysik"
       }
     }
   ],

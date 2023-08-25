@@ -2,15 +2,15 @@
   "id": "https://www.int.fraunhofer.de/P4_Atomphysik_Festkörperphysik_Strahlungseffekte_Halbleiterphysik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P4_Atomic physics, Solid state physics, Radiation effects, Semiconductor physics",
+    "en": "P4_Atomic Physics, Solid state Physics, Radiation effects, Semiconductor Physics",
     "de": "P4_Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik"
   },
   "altLabel": {
     "en": [
-      "P4_Nuclear Physics"
+      "P4_Nuclear Physics, Solid State Physics, Radiation Physics,Amorphous semiconductor"
     ],
     "de": [
-      "P4_Nuklearphysik"
+      "P4_Nuklearphysik, Feststoffphysik, Radioaktive Effekte, Amorphe Halbleiter"
     ]
   },
   "broader": {
