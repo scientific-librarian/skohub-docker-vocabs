@@ -3,14 +3,14 @@
   "type": "Concept",
   "prefLabel": {
     "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen",
-    "en": "OR2_Applications, Forecasts, Models, Technology Implications"
+    "en": "OR2_Applications, Forecasts, Models, Technology implications"
   },
   "altLabel": {
     "de": [
       "OR2_Einsatz, Einschätzungen, Methoden, Perspektivforschung, Technikfolgen"
     ],
     "en": [
-      "OR2_Use, Assessment, Methods, Perspective Research, Technology Impact"
+      "OR2_Use, Assessment, Methods, Perspective research, Technology impact"
     ]
   },
   "broader": {

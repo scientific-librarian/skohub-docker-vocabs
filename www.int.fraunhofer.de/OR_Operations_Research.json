@@ -33,14 +33,14 @@
       "id": "https://www.int.fraunhofer.de/OR1_Mathematische_Verfahren_Kontrolltheorie_Spieltheorie_Klassisches_OR",
       "prefLabel": {
         "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
-        "en": "OR1_Mathematical methods, Control Theory, Game theory, Classic OR"
+        "en": "OR1_Mathematical methods, Control theory, Game theory, Classic OR"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/OR2_Anwendungen_Prognosen_Modelle_Zukunftsforschung_Technologiefolgen",
       "prefLabel": {
         "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen",
-        "en": "OR2_Applications, Forecasts, Models, Technology Implications"
+        "en": "OR2_Applications, Forecasts, Models, Technology implications"
       }
     }
   ],
