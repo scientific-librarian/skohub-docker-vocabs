@@ -2,7 +2,7 @@
   "id": "https://www.int.fraunhofer.de/P0_Allgemeines_Lehrbücher_Handbücher",
   "type": "Concept",
   "prefLabel": {
-    "en": "P0_General, Textbook, Manuals",
+    "en": "P0_General, Textbooks, Manuals",
     "de": "P0_Allgemeines, Lehrbücher, Handbücher"
   },
   "altLabel": {
@@ -16,7 +16,7 @@
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_Physics",
+      "en": "P_physics",
       "de": "P_Physik"
     }
   },

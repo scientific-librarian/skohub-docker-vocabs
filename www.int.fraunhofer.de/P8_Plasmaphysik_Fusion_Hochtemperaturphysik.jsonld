@@ -2,12 +2,12 @@
   "id": "https://www.int.fraunhofer.de/P8_Plasmaphysik_Fusion_Hochtemperaturphysik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P8_Plasma Physics, Fusion, High-Temperature Physics",
+    "en": "P8_Plasma physics, Fusion, High-Temperature physics",
     "de": "P8_Plasmaphysik, Fusion, Hochtemperaturphysik"
   },
   "altLabel": {
     "en": [
-      "P8_Formed Physics, Nuclear Fusion, Physics of temperature"
+      "P8_Formed physics, Nuclear Fusion, physics of temperature"
     ],
     "de": [
       "P8_Geformte Physik, Kernfusion, Temperaturphysik"
@@ -16,7 +16,7 @@
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_Physics",
+      "en": "P_physics",
       "de": "P_Physik"
     }
   },

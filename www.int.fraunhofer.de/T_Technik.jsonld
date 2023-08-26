@@ -1,0 +1,215 @@
+{
+  "id": "https://www.int.fraunhofer.de/T_Technik",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "T_Technics",
+    "de": "T_Technik"
+  },
+  "altLabel": {
+    "en": [
+      "PT_Technology"
+    ],
+    "de": [
+      "T_Technologie"
+    ]
+  },
+  "hiddenLabel": {
+    "en": [
+      "hidden Note"
+    ],
+    "de": [
+      "verstecke Notiz"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://www.int.fraunhofer.de/T0_Allgemeines_Lehrbücher_der_Technik",
+      "prefLabel": {
+        "en": "T0_General, Textbooks",
+        "de": "T0 Allgemeines, Lehrbücher der Technik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T1_Tabellen_Nachschlagewerke",
+      "prefLabel": {
+        "en": "T1_Tables, Reference books",
+        "de": "T1_Tabellen, Nachschlagewerke"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T2_Messtechnik_Experimentiertechnik_Beschleuniger_Sensorik",
+      "prefLabel": {
+        "en": "T2_Measurement technology, Experimental technology, Accelerator, Sensoric",
+        "de": "T2_Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T3_Elektrotechnik_Elektronik_HF-Technik_Halbleitertechnik",
+      "prefLabel": {
+        "en": "T3_Electrical engineering, Electronic, HF-Technics, Semiconductor technics",
+        "de": "T3_Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T4_Technische_Optik_Lasertechnik_Optronik_Photonik_IR-Technik",
+      "prefLabel": {
+        "en": "T4_Technical optics, Laser technology, Optronics, Photonics, IR-technics",
+        "de": "T4_Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T5_Verkehrstechnik_Antriebstechnik_Energietechnik_Kältetechnik_Werkstofftechnik_Raumfahrt",
+      "prefLabel": {
+        "en": "Traffic engineering, Drive engineering, Power engineering, Refrigeration, Material engineering, Aerospace",
+        "de": "T5_Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T6_Kernenergie_Reaktorphysik_Neutronenwelle_Strahlungswelle_Kerntechnik",
+      "prefLabel": {
+        "en": "T6_Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering",
+        "de": "T6_Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T7_Strahlenschutz_Dosimetrie",
+      "prefLabel": {
+        "en": "T7_Radiation protection, Dosimetry",
+        "de": "T7_Strahlenschutz, Dosimetrie"
+      }
+    },
+    {
+      "id": "https://www.int.fraunhofer.de/T8_Technische_Akustik_Wasserschal_Seismik",
+      "prefLabel": {
+        "en": "T8_Technical acoustics,Water sonic, Seismic",
+        "de": "T8_Technische Akustik, Wasserschall, Seismik"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://www.int.fraunhofer.de/",
+      "title": {
+        "en": "Classification of the Fraunhofer INT library",
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.int.fraunhofer.de/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://www.int.fraunhofer.de/",
+      "title": {
+        "en": "Classification of the Fraunhofer INT library",
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    }
+  }
+}

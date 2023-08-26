@@ -2,12 +2,12 @@
   "id": "https://www.int.fraunhofer.de/P3_Kernphysik_Neutronenphysik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P3_Nuclear Physics, Neutronics Physics",
+    "en": "P3_Nuclear physics, Neutronics physics",
     "de": "P3_Kernphysik, Neutronenphysik"
   },
   "altLabel": {
     "en": [
-      "P3_Atom Physics, Nucleon Physics"
+      "P3_Atom physics, Nucleon physics"
     ],
     "de": [
       "P3_Atompyhsik, Nukleonphysik"
@@ -16,7 +16,7 @@
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_Physics",
+      "en": "P_physics",
       "de": "P_Physik"
     }
   },

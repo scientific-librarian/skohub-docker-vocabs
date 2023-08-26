@@ -7,7 +7,7 @@
   },
   "altLabel": {
     "en": [
-      "P5_Mechanism, Dynamic Physics, Terminal ballistics, Synergism"
+      "P5_Mechanism, Dynamic physics, Terminal ballistics, Synergism"
     ],
     "de": [
       "P5_Mechanismus, dynamische Physik, Terminalballistik, Synergismus"
@@ -16,7 +16,7 @@
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_Physics",
+      "en": "P_physics",
       "de": "P_Physik"
     }
   },

@@ -2,12 +2,12 @@
   "id": "https://www.int.fraunhofer.de/P2_Mathematische_Mehtoden_der_Physik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P2_Mathematical methods of Physics",
+    "en": "P2_Mathematical methods of physics",
     "de": "P2_Mathematische Mehtoden der Physik"
   },
   "altLabel": {
     "en": [
-      "P2_Math methods of Physics"
+      "P2_Math methods of physics"
     ],
     "de": [
       "P2_Mathemethodik der Physik"
@@ -16,7 +16,7 @@
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_Physics",
+      "en": "P_physics",
       "de": "P_Physik"
     }
   },
