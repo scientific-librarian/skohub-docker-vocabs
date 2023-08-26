@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/M5_Numerische_Mathematik",
   "type": "Concept",
   "prefLabel": {
-    "en": "M5_Numerical mathematics",
-    "de": "M5 Numerische Mathematik"
+    "de": "M5 Numerische Mathematik",
+    "en": "M5_Numerical mathematics"
   },
   "altLabel": {
-    "en": [
-      "M5_Numerics"
-    ],
     "de": [
       "M5_Numerik"
+    ],
+    "en": [
+      "M5_Numerics"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/M_Mathematik",
     "prefLabel": {
-      "en": "M_Mathematics",
-      "de": "M_Mathematik"
+      "de": "M_Mathematik",
+      "en": "M_Mathematics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

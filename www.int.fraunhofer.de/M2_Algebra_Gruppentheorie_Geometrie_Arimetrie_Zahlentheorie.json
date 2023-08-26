@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/M2_Algebra_Gruppentheorie_Geometrie_Arimetrie_Zahlentheorie",
   "type": "Concept",
   "prefLabel": {
-    "en": "M2_Algebra, Group theory, Geometry, Arimetry, Theory of Numbers",
-    "de": "M2_Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie"
+    "de": "M2_Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie",
+    "en": "M2_Algebra, Group theory, Geometry, Arimetry, Theory of Numbers"
   },
   "altLabel": {
-    "en": [
-      "M2_General algebra, Spatial science"
-    ],
     "de": [
       "M2_Allgemeine Algebra, Raumlehre"
+    ],
+    "en": [
+      "M2_General algebra, Spatial science"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/M_Mathematik",
     "prefLabel": {
-      "en": "M_Mathematics",
-      "de": "M_Mathematik"
+      "de": "M_Mathematik",
+      "en": "M_Mathematics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

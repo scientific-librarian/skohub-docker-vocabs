@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/OR1_Mathematische_Verfahren_Kontrolltheorie_Spieltheorie_Klassisches_OR",
   "type": "Concept",
   "prefLabel": {
-    "en": "OR1_Mathematical methods, Control Theory, Game theory, Classic OR",
-    "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR"
+    "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
+    "en": "OR1_Mathematical methods, Control Theory, Game theory, Classic OR"
   },
   "altLabel": {
-    "en": [
-      "OR1_Mathematics procedure, Theory of decision, Original OR"
-    ],
     "de": [
       "OR1_Verfahren der Mathematik, Entscheidungstheorie, Ursprüngliches OR"
+    ],
+    "en": [
+      "OR1_Mathematics procedure, Theory of decision, Original OR"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/OR_Operations_Research",
     "prefLabel": {
-      "en": "OR_Operations Research",
-      "de": "OR_Operations Research"
+      "de": "OR_Operations Research",
+      "en": "OR_Operations Research"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

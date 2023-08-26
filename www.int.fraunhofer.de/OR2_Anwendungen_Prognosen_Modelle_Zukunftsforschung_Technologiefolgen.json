@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/OR2_Anwendungen_Prognosen_Modelle_Zukunftsforschung_Technologiefolgen",
   "type": "Concept",
   "prefLabel": {
-    "en": "OR2_Applications, Forecasts, Models, Technology Implications",
-    "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen"
+    "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen",
+    "en": "OR2_Applications, Forecasts, Models, Technology Implications"
   },
   "altLabel": {
-    "en": [
-      "OR2_Use, Assessment, Methods, Perspective Research, Technology Impact"
-    ],
     "de": [
       "OR2_Einsatz, Einschätzungen, Methoden, Perspektivforschung, Technikfolgen"
+    ],
+    "en": [
+      "OR2_Use, Assessment, Methods, Perspective Research, Technology Impact"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/OR_Operations_Research",
     "prefLabel": {
-      "en": "OR_Operations Research",
-      "de": "OR_Operations Research"
+      "de": "OR_Operations Research",
+      "en": "OR_Operations Research"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

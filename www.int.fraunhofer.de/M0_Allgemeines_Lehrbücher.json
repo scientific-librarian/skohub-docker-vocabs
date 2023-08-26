@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/M0_Allgemeines_Lehrbücher",
   "type": "Concept",
   "prefLabel": {
-    "en": "M0_General, Textbookss",
-    "de": "M0_Allgemeines, Lehrbücher"
+    "de": "M0_Allgemeines, Lehrbücher",
+    "en": "M0_General, Textbookss"
   },
   "altLabel": {
-    "en": [
-      "M0_Reference books"
-    ],
     "de": [
       "M0_Universelles, Fachbücher"
+    ],
+    "en": [
+      "M0_Reference books"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/M_Mathematik",
     "prefLabel": {
-      "en": "M_Mathematics",
-      "de": "M_Mathematik"
+      "de": "M_Mathematik",
+      "en": "M_Mathematics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

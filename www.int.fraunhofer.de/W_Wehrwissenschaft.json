@@ -2,59 +2,59 @@
   "id": "https://www.int.fraunhofer.de/W_Wehrwissenschaft",
   "type": "Concept",
   "prefLabel": {
-    "en": "W_Defence science",
-    "de": "W_Wehrwissenschaft"
+    "de": "W_Wehrwissenschaft",
+    "en": "W_Defence science"
   },
   "altLabel": {
-    "en": [
-      "W_Military science"
-    ],
     "de": [
       "Militärwissenschaft"
+    ],
+    "en": [
+      "W_Military science"
     ]
   },
   "hiddenLabel": {
-    "en": [
-      "Internal information for library staff"
-    ],
     "de": [
       "Interne Informationen für die Bibliotheksmitarbeiter"
+    ],
+    "en": [
+      "Internal information for library staff"
     ]
   },
   "narrower": [
     {
       "id": "https://www.int.fraunhofer.de/W0_Allgemeines",
       "prefLabel": {
-        "en": "W0_General",
-        "de": "W0_Allgemeines"
+        "de": "W0_Allgemeines",
+        "en": "W0_General"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/W1_Tabellen_Nachschlagewerke",
       "prefLabel": {
-        "en": "W1_Tables, Reference books",
-        "de": "W1_Tabellen, Nachschlagewerke"
+        "de": "W1_Tabellen, Nachschlagewerke",
+        "en": "W1_Tables, Reference books"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/W2_Wehrtechnik_Militärische_Praxis_Militärische_Ausbildung",
       "prefLabel": {
-        "en": "W2_Defense engineering, Military practice, Military training",
-        "de": "W2_Wehrtechnik, Militärische Praxis, Militärische Ausbildung"
+        "de": "W2_Wehrtechnik, Militärische Praxis, Militärische Ausbildung",
+        "en": "W2_Defense engineering, Military practice, Military training"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/W3_Kernwaffen_Kernwaffenwirkung",
       "prefLabel": {
-        "en": "W3_Nuclear weapons, Nuclear Weapons effect",
-        "de": "W3_Kernwaffen, Kernwaffenwirkung"
+        "de": "W3_Kernwaffen, Kernwaffenwirkung",
+        "en": "W3_Nuclear weapons, Nuclear Weapons effect"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/W4_Sicherheitspolitik_allgemeine_Verteidigungsfragen",
       "prefLabel": {
-        "en": "W4_Security policy,General defense questions",
-        "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen"
+        "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen",
+        "en": "W4_Security policy,General defense questions"
       }
     }
   ],
@@ -62,8 +62,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
@@ -76,8 +76,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

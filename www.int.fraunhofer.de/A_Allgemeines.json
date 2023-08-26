@@ -2,45 +2,45 @@
   "id": "https://www.int.fraunhofer.de/A_Allgemeines",
   "type": "Concept",
   "prefLabel": {
-    "en": "A_General",
-    "de": "A_Allgemeines"
+    "de": "A_Allgemeines",
+    "en": "A_General"
   },
   "altLabel": {
-    "en": [
-      "A_Universal"
-    ],
     "de": [
       "A_Universelles"
+    ],
+    "en": [
+      "A_Universal"
     ]
   },
   "hiddenLabel": {
-    "en": [
-      "Internal information for library staff"
-    ],
     "de": [
       "Interne Informationen für die Bibliotheksmitarbeiter"
+    ],
+    "en": [
+      "Internal information for library staff"
     ]
   },
   "narrower": [
     {
       "id": "https://www.int.fraunhofer.de/A0_Verschiedenes",
       "prefLabel": {
-        "en": "A0_Various",
-        "de": "A0_Verschiedenes"
+        "de": "A0_Verschiedenes",
+        "en": "A0_Various"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/A1_Lexika_alternative_Nachschlagewerke",
       "prefLabel": {
-        "en": "A1_Lexica, Alternative reference books",
-        "de": "A1_Lexika_alternative_Nachschlagewerke"
+        "de": "A1_Lexika_alternative_Nachschlagewerke",
+        "en": "A1_Lexica, Alternative reference books"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
       "prefLabel": {
-        "en": "A2_Dictionaries",
-        "de": "A2_Wörterbücher"
+        "de": "A2_Wörterbücher",
+        "en": "A2_Dictionaries"
       }
     }
   ],
@@ -48,8 +48,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
@@ -62,8 +62,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

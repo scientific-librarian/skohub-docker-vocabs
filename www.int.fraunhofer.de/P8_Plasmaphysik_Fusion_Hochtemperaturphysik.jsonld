@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P8_Plasmaphysik_Fusion_Hochtemperaturphysik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P8_Plasma physics, Fusion, High-Temperature physics",
-    "de": "P8_Plasmaphysik, Fusion, Hochtemperaturphysik"
+    "de": "P8_Plasmaphysik, Fusion, Hochtemperaturphysik",
+    "en": "P8_Plasma physics, Fusion, High-Temperature physics"
   },
   "altLabel": {
-    "en": [
-      "P8_Formed physics, Nuclear Fusion, physics of temperature"
-    ],
     "de": [
       "P8_Geformte Physik, Kernfusion, Temperaturphysik"
+    ],
+    "en": [
+      "P8_Formed physics, Nuclear Fusion, physics of temperature"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

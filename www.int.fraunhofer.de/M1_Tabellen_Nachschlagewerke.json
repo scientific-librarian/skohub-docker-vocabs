@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/M1_Tabellen_Nachschlagewerke",
   "type": "Concept",
   "prefLabel": {
-    "en": "M1_Tables, Reference books",
-    "de": "M1_Tabellen, Nachschlagewerke"
+    "de": "M1_Tabellen, Nachschlagewerke",
+    "en": "M1_Tables, Reference books"
   },
   "altLabel": {
-    "en": [
-      "M1_Tablebooks, Compendium"
-    ],
     "de": [
       "M1_Tabellenbuch, Kompendium"
+    ],
+    "en": [
+      "M1_Tablebooks, Compendium"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/M_Mathematik",
     "prefLabel": {
-      "en": "M_Mathematics",
-      "de": "M_Mathematik"
+      "de": "M_Mathematik",
+      "en": "M_Mathematics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

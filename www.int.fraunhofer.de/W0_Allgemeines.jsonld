@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/W0_Allgemeines",
   "type": "Concept",
   "prefLabel": {
-    "en": "W0_General",
-    "de": "W0_Allgemeines"
+    "de": "W0_Allgemeines",
+    "en": "W0_General"
   },
   "altLabel": {
-    "en": [
-      "W0_Universal"
-    ],
     "de": [
       "W0_Universelles"
+    ],
+    "en": [
+      "W0_Universal"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/W_Wehrwissenschaft",
     "prefLabel": {
-      "en": "W_Defence science",
-      "de": "W_Wehrwissenschaft"
+      "de": "W_Wehrwissenschaft",
+      "en": "W_Defence science"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

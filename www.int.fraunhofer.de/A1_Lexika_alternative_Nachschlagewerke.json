@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/A1_Lexika_alternative_Nachschlagewerke",
   "type": "Concept",
   "prefLabel": {
-    "en": "A1_Lexica, Alternative reference books",
-    "de": "A1_Lexika_alternative_Nachschlagewerke"
+    "de": "A1_Lexika_alternative_Nachschlagewerke",
+    "en": "A1_Lexica, Alternative reference books"
   },
   "altLabel": {
-    "en": [
-      "A1_Encyclopedia, Compendium"
-    ],
     "de": [
       "A1_Enzyklopädie, Kompendium"
+    ],
+    "en": [
+      "A1_Encyclopedia, Compendium"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/A_Allgemeines",
     "prefLabel": {
-      "en": "A_General",
-      "de": "A_Allgemeines"
+      "de": "A_Allgemeines",
+      "en": "A_General"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

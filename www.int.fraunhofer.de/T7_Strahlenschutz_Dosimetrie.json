@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T7_Strahlenschutz_Dosimetrie",
   "type": "Concept",
   "prefLabel": {
-    "en": "T7_Radiation protection, Dosimetry",
-    "de": "T7_Strahlenschutz, Dosimetrie"
+    "de": "T7_Strahlenschutz, Dosimetrie",
+    "en": "T7_Radiation protection, Dosimetry"
   },
   "altLabel": {
-    "en": [
-      "radioactive protection"
-    ],
     "de": [
       "T7_Radioaktiver Schutz, Strahlendosimetrie"
+    ],
+    "en": [
+      "radioactive protection"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

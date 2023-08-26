@@ -2,31 +2,31 @@
   "id": "https://www.int.fraunhofer.de/DI_Datenverarbeitung_Informatik_Informationsverarbeitung_Programmiersprache_Künstliche_Intelligenz",
   "type": "Concept",
   "prefLabel": {
-    "en": "DI_Data proceesing, Informatics, Information processing, Programming language, artificial intelligence",
-    "de": "DI_Datenverarbeitung, Informatik, Informationsverarbeitung, Programmiersprache, Künstliche Intelligenz"
+    "de": "DI_Datenverarbeitung, Informatik, Informationsverarbeitung, Programmiersprache, Künstliche Intelligenz",
+    "en": "DI_Data proceesing, Informatics, Information processing, Programming language, artificial intelligence"
   },
   "altLabel": {
-    "en": [
-      "DI_Data science, AI"
-    ],
     "de": [
       "DI_Dateninformatik, KI"
+    ],
+    "en": [
+      "DI_Data science, AI"
     ]
   },
   "hiddenLabel": {
-    "en": [
-      "Internal information for library staff"
-    ],
     "de": [
       "Interne Informationen für die Bibliotheksmitarbeiter"
+    ],
+    "en": [
+      "Internal information for library staff"
     ]
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
@@ -39,8 +39,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

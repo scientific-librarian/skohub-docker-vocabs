@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T8_Technische_Akustik_Wasserschal_Seismik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T8_Technical acoustics,Water sonic, Seismic",
-    "de": "T8_Technische Akustik, Wasserschall, Seismik"
+    "de": "T8_Technische Akustik, Wasserschall, Seismik",
+    "en": "T8_Technical acoustics,Water sonic, Seismic"
   },
   "altLabel": {
-    "en": [
-      "T8_Technical sound, Water sound, Applied geophysics"
-    ],
     "de": [
       "T8_Technischer Klang, Wasserklang, Angewandte Geophysik"
+    ],
+    "en": [
+      "T8_Technical sound, Water sound, Applied geophysics"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

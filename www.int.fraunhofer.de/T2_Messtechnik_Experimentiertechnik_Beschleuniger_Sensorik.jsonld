@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T2_Messtechnik_Experimentiertechnik_Beschleuniger_Sensorik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T2_Measurement technology, Experimental technology, Accelerator, Sensoric",
-    "de": "T2_Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik"
+    "de": "T2_Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik",
+    "en": "T2_Measurement technology, Experimental technology, Accelerator, Sensoric"
   },
   "altLabel": {
-    "en": [
-      "T_Measurement methods, Experimental engineering"
-    ],
     "de": [
       "T2_Messmethoden, Versuchstechnik"
+    ],
+    "en": [
+      "T_Measurement methods, Experimental engineering"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

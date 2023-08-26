@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T1_Tabellen_Nachschlagewerke",
   "type": "Concept",
   "prefLabel": {
-    "en": "T1_Tables, Reference books",
-    "de": "T1_Tabellen, Nachschlagewerke"
+    "de": "T1_Tabellen, Nachschlagewerke",
+    "en": "T1_Tables, Reference books"
   },
   "altLabel": {
-    "en": [
-      "T1_Tablebooks, Compendium"
-    ],
     "de": [
       "T1_Tabellenbuch, Kompendium"
+    ],
+    "en": [
+      "T1_Tablebooks, Compendium"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

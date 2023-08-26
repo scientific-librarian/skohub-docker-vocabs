@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/A0_Verschiedenes",
   "type": "Concept",
   "prefLabel": {
-    "en": "A0_Various",
-    "de": "A0_Verschiedenes"
+    "de": "A0_Verschiedenes",
+    "en": "A0_Various"
   },
   "altLabel": {
-    "en": [
-      "A0_Miscellaneous"
-    ],
     "de": [
       "A0_Diverses"
+    ],
+    "en": [
+      "A0_Miscellaneous"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/A_Allgemeines",
     "prefLabel": {
-      "en": "A_General",
-      "de": "A_Allgemeines"
+      "de": "A_Allgemeines",
+      "en": "A_General"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

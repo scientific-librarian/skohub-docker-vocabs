@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/W1_Tabellen_Nachschlagewerke",
   "type": "Concept",
   "prefLabel": {
-    "en": "W1_Tables, Reference books",
-    "de": "W1_Tabellen, Nachschlagewerke"
+    "de": "W1_Tabellen, Nachschlagewerke",
+    "en": "W1_Tables, Reference books"
   },
   "altLabel": {
-    "en": [
-      "W1_Tablebooks, Compedium"
-    ],
     "de": [
       "W1_Tabellenbuch, Kompendium"
+    ],
+    "en": [
+      "W1_Tablebooks, Compedium"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/W_Wehrwissenschaft",
     "prefLabel": {
-      "en": "W_Defence science",
-      "de": "W_Wehrwissenschaft"
+      "de": "W_Wehrwissenschaft",
+      "en": "W_Defence science"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

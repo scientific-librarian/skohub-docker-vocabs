@@ -2,45 +2,45 @@
   "id": "https://www.int.fraunhofer.de/OR_Operations_Research",
   "type": "Concept",
   "prefLabel": {
-    "en": "OR_Operations Research",
-    "de": "OR_Operations Research"
+    "de": "OR_Operations Research",
+    "en": "OR_Operations Research"
   },
   "altLabel": {
-    "en": [
-      "OR_Business Research"
-    ],
     "de": [
       "OR_Betriebsforschung"
+    ],
+    "en": [
+      "OR_Business Research"
     ]
   },
   "hiddenLabel": {
-    "en": [
-      "Internal information for library staff"
-    ],
     "de": [
       "Interne Informationen für die Bibliotheksmitarbeiter"
+    ],
+    "en": [
+      "Internal information for library staff"
     ]
   },
   "narrower": [
     {
       "id": "https://www.int.fraunhofer.de/OR0_Grundlagen_Systemwissenschaften_Komplexitätstheorie",
       "prefLabel": {
-        "en": "OR0_Basics, System sciences, Theory of complexity",
-        "de": "OR0_Grundlagen, Systemwissenschaften, Komplexitätstheorie"
+        "de": "OR0_Grundlagen, Systemwissenschaften, Komplexitätstheorie",
+        "en": "OR0_Basics, System sciences, Theory of complexity"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/OR1_Mathematische_Verfahren_Kontrolltheorie_Spieltheorie_Klassisches_OR",
       "prefLabel": {
-        "en": "OR1_Mathematical methods, Control Theory, Game theory, Classic OR",
-        "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR"
+        "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
+        "en": "OR1_Mathematical methods, Control Theory, Game theory, Classic OR"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/OR2_Anwendungen_Prognosen_Modelle_Zukunftsforschung_Technologiefolgen",
       "prefLabel": {
-        "en": "OR2_Applications, Forecasts, Models, Technology Implications",
-        "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen"
+        "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen",
+        "en": "OR2_Applications, Forecasts, Models, Technology Implications"
       }
     }
   ],
@@ -48,8 +48,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
@@ -62,8 +62,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

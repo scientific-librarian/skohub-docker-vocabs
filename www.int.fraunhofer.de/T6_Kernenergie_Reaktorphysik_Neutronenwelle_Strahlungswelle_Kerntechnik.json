@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T6_Kernenergie_Reaktorphysik_Neutronenwelle_Strahlungswelle_Kerntechnik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T6_Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering",
-    "de": "T6_Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik"
+    "de": "T6_Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik",
+    "en": "T6_Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering"
   },
   "altLabel": {
-    "en": [
-      "T6_Atomic energy,Nuclear reactor physics, Nucleon wave, Radioactivity wave, Atomic technology"
-    ],
     "de": [
       "T6_Atomenergie, Kernreaktorphysik, Nukleonwelle, Radioaktivitätswelle, Atomtechnik"
+    ],
+    "en": [
+      "T6_Atomic energy,Nuclear reactor physics, Nucleon wave, Radioactivity wave, Atomic technology"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

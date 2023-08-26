@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/A2_Wörterbücher",
   "type": "Concept",
   "prefLabel": {
-    "en": "A2_Dictionaries",
-    "de": "A2_Wörterbücher"
+    "de": "A2_Wörterbücher",
+    "en": "A2_Dictionaries"
   },
   "altLabel": {
-    "en": [
-      "A2_Vocabulary"
-    ],
     "de": [
       "A2_Vokabularium"
+    ],
+    "en": [
+      "A2_Vocabulary"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/A_Allgemeines",
     "prefLabel": {
-      "en": "A_General",
-      "de": "A_Allgemeines"
+      "de": "A_Allgemeines",
+      "en": "A_General"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

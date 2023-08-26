@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T5_Verkehrstechnik_Antriebstechnik_Energietechnik_Kältetechnik_Werkstofftechnik_Raumfahrt",
   "type": "Concept",
   "prefLabel": {
-    "en": "Traffic engineering, Drive engineering, Power engineering, Refrigeration, Material engineering, Aerospace",
-    "de": "T5_Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt"
+    "de": "T5_Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt",
+    "en": "Traffic engineering, Drive engineering, Power engineering, Refrigeration, Material engineering, Aerospace"
   },
   "altLabel": {
-    "en": [
-      "T5_Variable message sign system, Engine technology, Power engineering, Cooling technology, Material Technology, Space Flight"
-    ],
     "de": [
       "T5_Wechselverkehrszeichenanlage, Motortechnik, Stromtechnik, Kühltechnik, Materialtechnik, Weltraumfahrt"
+    ],
+    "en": [
+      "T5_Variable message sign system, Engine technology, Power engineering, Cooling technology, Material Technology, Space Flight"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

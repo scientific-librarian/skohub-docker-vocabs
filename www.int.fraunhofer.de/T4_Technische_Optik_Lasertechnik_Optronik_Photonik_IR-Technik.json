@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T4_Technische_Optik_Lasertechnik_Optronik_Photonik_IR-Technik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T4_Technical optics, Laser technology, Optronics, Photonics, IR-technics",
-    "de": "T4_Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik"
+    "de": "T4_Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik",
+    "en": "T4_Technical optics, Laser technology, Optronics, Photonics, IR-technics"
   },
   "altLabel": {
-    "en": [
-      "T4_Technique optics, Coherent light, Lehre von Lichtteilchen"
-    ],
     "de": [
       "T4_Technik Optik,Kohärentes Licht"
+    ],
+    "en": [
+      "T4_Technique optics, Coherent light, Lehre von Lichtteilchen"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

@@ -2,87 +2,87 @@
   "id": "https://www.int.fraunhofer.de/T_Technik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T_Technics",
-    "de": "T_Technik"
+    "de": "T_Technik",
+    "en": "T_Technics"
   },
   "altLabel": {
-    "en": [
-      "PT_Technology"
-    ],
     "de": [
       "T_Technologie"
+    ],
+    "en": [
+      "PT_Technology"
     ]
   },
   "hiddenLabel": {
-    "en": [
-      "Internal information for library staff"
-    ],
     "de": [
       "Interne Informationen für die Bibliotheksmitarbeiter"
+    ],
+    "en": [
+      "Internal information for library staff"
     ]
   },
   "narrower": [
     {
       "id": "https://www.int.fraunhofer.de/T0_Allgemeines_Lehrbücher_der_Technik",
       "prefLabel": {
-        "en": "T0_General, Textbooks",
-        "de": "T0 Allgemeines, Lehrbücher der Technik"
+        "de": "T0 Allgemeines, Lehrbücher der Technik",
+        "en": "T0_General, Textbooks"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T1_Tabellen_Nachschlagewerke",
       "prefLabel": {
-        "en": "T1_Tables, Reference books",
-        "de": "T1_Tabellen, Nachschlagewerke"
+        "de": "T1_Tabellen, Nachschlagewerke",
+        "en": "T1_Tables, Reference books"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T2_Messtechnik_Experimentiertechnik_Beschleuniger_Sensorik",
       "prefLabel": {
-        "en": "T2_Measurement technology, Experimental technology, Accelerator, Sensoric",
-        "de": "T2_Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik"
+        "de": "T2_Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik",
+        "en": "T2_Measurement technology, Experimental technology, Accelerator, Sensoric"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T3_Elektrotechnik_Elektronik_HF-Technik_Halbleitertechnik",
       "prefLabel": {
-        "en": "T3_Electrical engineering, Electronic, HF-Technics, Semiconductor technics",
-        "de": "T3_Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik"
+        "de": "T3_Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik",
+        "en": "T3_Electrical engineering, Electronic, HF-Technics, Semiconductor technics"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T4_Technische_Optik_Lasertechnik_Optronik_Photonik_IR-Technik",
       "prefLabel": {
-        "en": "T4_Technical optics, Laser technology, Optronics, Photonics, IR-technics",
-        "de": "T4_Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik"
+        "de": "T4_Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik",
+        "en": "T4_Technical optics, Laser technology, Optronics, Photonics, IR-technics"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T5_Verkehrstechnik_Antriebstechnik_Energietechnik_Kältetechnik_Werkstofftechnik_Raumfahrt",
       "prefLabel": {
-        "en": "Traffic engineering, Drive engineering, Power engineering, Refrigeration, Material engineering, Aerospace",
-        "de": "T5_Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt"
+        "de": "T5_Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt",
+        "en": "Traffic engineering, Drive engineering, Power engineering, Refrigeration, Material engineering, Aerospace"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T6_Kernenergie_Reaktorphysik_Neutronenwelle_Strahlungswelle_Kerntechnik",
       "prefLabel": {
-        "en": "T6_Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering",
-        "de": "T6_Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik"
+        "de": "T6_Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik",
+        "en": "T6_Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T7_Strahlenschutz_Dosimetrie",
       "prefLabel": {
-        "en": "T7_Radiation protection, Dosimetry",
-        "de": "T7_Strahlenschutz, Dosimetrie"
+        "de": "T7_Strahlenschutz, Dosimetrie",
+        "en": "T7_Radiation protection, Dosimetry"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/T8_Technische_Akustik_Wasserschal_Seismik",
       "prefLabel": {
-        "en": "T8_Technical acoustics,Water sonic, Seismic",
-        "de": "T8_Technische Akustik, Wasserschall, Seismik"
+        "de": "T8_Technische Akustik, Wasserschall, Seismik",
+        "en": "T8_Technical acoustics,Water sonic, Seismic"
       }
     }
   ],
@@ -90,8 +90,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
@@ -104,8 +104,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

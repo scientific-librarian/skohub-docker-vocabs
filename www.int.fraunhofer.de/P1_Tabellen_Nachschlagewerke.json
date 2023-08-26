@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P1_Tabellen_Nachschlagewerke",
   "type": "Concept",
   "prefLabel": {
-    "en": "P0_Tables, Reference books",
-    "de": "P1_Tabellen, Nachschlagewerke"
+    "de": "P1_Tabellen, Nachschlagewerke",
+    "en": "P0_Tables, Reference books"
   },
   "altLabel": {
-    "en": [
-      "P1_Tablebooks, Compendium"
-    ],
     "de": [
       "P1_Tabellenbuch, Kompendium"
+    ],
+    "en": [
+      "P1_Tablebooks, Compendium"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

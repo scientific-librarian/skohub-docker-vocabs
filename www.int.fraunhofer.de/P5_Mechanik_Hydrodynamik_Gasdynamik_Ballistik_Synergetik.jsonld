@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P5_Mechanik_Hydrodynamik_Gasdynamik_Ballistik_Synergetik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P5_Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic",
-    "de": "P5 Mechanik, Hydrodynamik, Gasdynamik, Ballistik, Synergetik"
+    "de": "P5 Mechanik, Hydrodynamik, Gasdynamik, Ballistik, Synergetik",
+    "en": "P5_Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic"
   },
   "altLabel": {
-    "en": [
-      "P5_Mechanism, Dynamic physics, Terminal ballistics, Synergism"
-    ],
     "de": [
       "P5_Mechanismus, dynamische Physik, Terminalballistik, Synergismus"
+    ],
+    "en": [
+      "P5_Mechanism, Dynamic physics, Terminal ballistics, Synergism"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

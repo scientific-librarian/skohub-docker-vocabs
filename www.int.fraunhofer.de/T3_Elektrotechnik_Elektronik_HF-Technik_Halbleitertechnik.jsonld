@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T3_Elektrotechnik_Elektronik_HF-Technik_Halbleitertechnik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T3_Electrical engineering, Electronic, HF-Technics, Semiconductor technics",
-    "de": "T3_Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik"
+    "de": "T3_Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik",
+    "en": "T3_Electrical engineering, Electronic, HF-Technics, Semiconductor technics"
   },
   "altLabel": {
-    "en": [
-      "T3_E-technics, Electrics,Semiconductor-technics"
-    ],
     "de": [
       "T3_E-Technik, Elektrik, Halbleiter-Technik"
+    ],
+    "en": [
+      "T3_E-technics, Electrics,Semiconductor-technics"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

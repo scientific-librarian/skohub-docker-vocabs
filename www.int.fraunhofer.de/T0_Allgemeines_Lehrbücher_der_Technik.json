@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/T0_Allgemeines_Lehrbücher_der_Technik",
   "type": "Concept",
   "prefLabel": {
-    "en": "T0_General, Textbooks",
-    "de": "T0 Allgemeines, Lehrbücher der Technik"
+    "de": "T0 Allgemeines, Lehrbücher der Technik",
+    "en": "T0_General, Textbooks"
   },
   "altLabel": {
-    "en": [
-      "T0_Universal, Reference books"
-    ],
     "de": [
       "T0_Universelles, Fachbücher der Technik"
+    ],
+    "en": [
+      "T0_Universal, Reference books"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/T_Technik",
     "prefLabel": {
-      "en": "T_Technics",
-      "de": "T_Technik"
+      "de": "T_Technik",
+      "en": "T_Technics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

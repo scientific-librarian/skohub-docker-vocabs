@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P7_Optik_Elektrizität_Magnetismus_elektromagnetische_Felder",
   "type": "Concept",
   "prefLabel": {
-    "en": "P7_Optics, Electricity, Magnetism, Electromagnetic fields",
-    "de": "P7_Optik, Elektrizität, Magnetismus, elektromagnetische Felder"
+    "de": "P7_Optik, Elektrizität, Magnetismus, elektromagnetische Felder",
+    "en": "P7_Optics, Electricity, Magnetism, Electromagnetic fields"
   },
   "altLabel": {
-    "en": [
-      "P7_Doctrine of light, Power, Electromagnetism, Magnetic fields"
-    ],
     "de": [
       "P7_Lehre vom Licht, Strom, Elektromagnetismus, Magnetische Felder"
+    ],
+    "en": [
+      "P7_Doctrine of light, Power, Electromagnetism, Magnetic fields"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

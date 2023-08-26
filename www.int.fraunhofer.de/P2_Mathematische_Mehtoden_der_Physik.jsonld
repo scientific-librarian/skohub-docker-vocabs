@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P2_Mathematische_Mehtoden_der_Physik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P2_Mathematical methods of physics",
-    "de": "P2_Mathematische Mehtoden der Physik"
+    "de": "P2_Mathematische Mehtoden der Physik",
+    "en": "P2_Mathematical methods of physics"
   },
   "altLabel": {
-    "en": [
-      "P2_Math methods of physics"
-    ],
     "de": [
       "P2_Mathemethodik der Physik"
+    ],
+    "en": [
+      "P2_Math methods of physics"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

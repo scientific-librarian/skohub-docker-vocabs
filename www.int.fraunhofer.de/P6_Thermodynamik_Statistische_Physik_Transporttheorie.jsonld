@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P6_Thermodynamik_Statistische_Physik_Transporttheorie",
   "type": "Concept",
   "prefLabel": {
-    "en": "P6_Thermodynamics, Statistical physics, Transportation theory",
-    "de": "P6_Thermodynamik, Statistische Physik, Transporttheorie"
+    "de": "P6_Thermodynamik, Statistische Physik, Transporttheorie",
+    "en": "P6_Thermodynamics, Statistical physics, Transportation theory"
   },
   "altLabel": {
-    "en": [
-      "P6_Heat theory,physics statistics,Optimal transport theory"
-    ],
     "de": [
       "P6_Wärmelehre, Statistik der Physik, Optimaler Transport"
+    ],
+    "en": [
+      "P6_Heat theory,physics statistics,Optimal transport theory"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

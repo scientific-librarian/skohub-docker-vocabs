@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/M3_Analysis_Funktionsanalysis_Funktionstheorie_Spezielle_Funktionen",
   "type": "Concept",
   "prefLabel": {
-    "en": "M3_Analysis, Functional analysis, Functional theory, Special functions",
-    "de": "M3_Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen"
+    "de": "M3_Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen",
+    "en": "M3_Analysis, Functional analysis, Functional theory, Special functions"
   },
   "altLabel": {
-    "en": [
-      "Functions"
-    ],
     "de": [
       "M3_Analyse, Funktionen"
+    ],
+    "en": [
+      "Functions"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/M_Mathematik",
     "prefLabel": {
-      "en": "M_Mathematics",
-      "de": "M_Mathematik"
+      "de": "M_Mathematik",
+      "en": "M_Mathematics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

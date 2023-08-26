@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/P4_Atomphysik_Festkörperphysik_Strahlungseffekte_Halbleiterphysik",
   "type": "Concept",
   "prefLabel": {
-    "en": "P4_Atomic physics, Solid state physics, Radiation effects, Semiconductor physics",
-    "de": "P4_Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik"
+    "de": "P4_Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik",
+    "en": "P4_Atomic physics, Solid state physics, Radiation effects, Semiconductor physics"
   },
   "altLabel": {
-    "en": [
-      "P4_Nuclear physics, Solid State physics, Radiation physics,Amorphous semiconductor"
-    ],
     "de": [
       "P4_Nuklearphysik, Feststoffphysik, Radioaktive Effekte, Amorphe Halbleiter"
+    ],
+    "en": [
+      "P4_Nuclear physics, Solid State physics, Radiation physics,Amorphous semiconductor"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/P_Physik",
     "prefLabel": {
-      "en": "P_physics",
-      "de": "P_Physik"
+      "de": "P_Physik",
+      "en": "P_physics"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

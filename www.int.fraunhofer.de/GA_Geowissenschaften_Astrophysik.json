@@ -2,31 +2,31 @@
   "id": "https://www.int.fraunhofer.de/GA_Geowissenschaften_Astrophysik",
   "type": "Concept",
   "prefLabel": {
-    "en": "GA_Geosciences, Astro physics",
-    "de": "GA_Geowissenschaften, Astrophysik"
+    "de": "GA_Geowissenschaften, Astrophysik",
+    "en": "GA_Geosciences, Astro physics"
   },
   "altLabel": {
-    "en": [
-      "Geography, Astronomy"
-    ],
     "de": [
       "Geographie, Astronomie"
+    ],
+    "en": [
+      "Geography, Astronomy"
     ]
   },
   "hiddenLabel": {
-    "en": [
-      "Internal information for library staff"
-    ],
     "de": [
       "Interne Informationen für die Bibliotheksmitarbeiter"
+    ],
+    "en": [
+      "Internal information for library staff"
     ]
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
@@ -39,8 +39,8 @@
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],

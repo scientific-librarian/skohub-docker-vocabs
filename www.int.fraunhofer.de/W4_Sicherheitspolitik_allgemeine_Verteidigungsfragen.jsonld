@@ -2,30 +2,30 @@
   "id": "https://www.int.fraunhofer.de/W4_Sicherheitspolitik_allgemeine_Verteidigungsfragen",
   "type": "Concept",
   "prefLabel": {
-    "en": "W4_Security policy,General defense questions",
-    "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen"
+    "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen",
+    "en": "W4_Security policy,General defense questions"
   },
   "altLabel": {
-    "en": [
-      "W4_Defense policy,General security questions"
-    ],
     "de": [
       "W4_Verteidigungspolitik, allgemeine Sicherheitsfragen"
+    ],
+    "en": [
+      "W4_Defense policy,General security questions"
     ]
   },
   "broader": {
     "id": "https://www.int.fraunhofer.de/W_Wehrwissenschaft",
     "prefLabel": {
-      "en": "W_Defence science",
-      "de": "W_Wehrwissenschaft"
+      "de": "W_Wehrwissenschaft",
+      "en": "W_Defence science"
     }
   },
   "inScheme": [
     {
       "id": "https://www.int.fraunhofer.de/",
       "title": {
-        "en": "Classification of the Fraunhofer INT library",
-        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT"
+        "de": "Aufstellungssystematik der Bibliothek des Fraunhofer INT",
+        "en": "Classification of the Fraunhofer INT library"
       }
     }
   ],
