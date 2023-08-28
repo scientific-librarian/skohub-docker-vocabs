@@ -23,63 +23,63 @@
   },
   "narrower": [
     {
-      "id": "https://www.int.fraunhofer.de/P0_Allgemeines_Lehrbücher_Handbücher",
+      "id": "https://www.int.fraunhofer.de/P0",
       "prefLabel": {
         "de": "P0_Allgemeines, Lehrbücher, Handbücher",
         "en": "P0_General, Textbooks, Manuals"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P1_Tabellen_Nachschlagewerke",
+      "id": "https://www.int.fraunhofer.de/P1",
       "prefLabel": {
         "de": "P1_Tabellen, Nachschlagewerke",
         "en": "P0_Tables, Reference books"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P2_Mathematische_Mehtoden_der_Physik",
+      "id": "https://www.int.fraunhofer.de/P2",
       "prefLabel": {
         "de": "P2_Mathematische Mehtoden der Physik",
         "en": "P2_Mathematical methods of physics"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P3_Kernphysik_Neutronenphysik",
+      "id": "https://www.int.fraunhofer.de/P3",
       "prefLabel": {
         "de": "P3_Kernphysik, Neutronenphysik",
         "en": "P3_Nuclear physics, Neutronics physics"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P4_Atomphysik_Festkörperphysik_Strahlungseffekte_Halbleiterphysik",
+      "id": "https://www.int.fraunhofer.de/P4",
       "prefLabel": {
         "de": "P4_Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik",
         "en": "P4_Atomic physics, Solid state physics, Radiation effects, Semiconductor physics"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P5_Mechanik_Hydrodynamik_Gasdynamik_Ballistik_Synergetik",
+      "id": "https://www.int.fraunhofer.de/P5",
       "prefLabel": {
         "de": "P5 Mechanik, Hydrodynamik, Gasdynamik, Ballistik, Synergetik",
         "en": "P5_Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P6_Thermodynamik_Statistische_Physik_Transporttheorie",
+      "id": "https://www.int.fraunhofer.de/P6",
       "prefLabel": {
         "de": "P6_Thermodynamik, Statistische Physik, Transporttheorie",
         "en": "P6_Thermodynamics, Statistical physics, Transportation theory"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P7_Optik_Elektrizität_Magnetismus_elektromagnetische_Felder",
+      "id": "https://www.int.fraunhofer.de/P7",
       "prefLabel": {
         "de": "P7_Optik, Elektrizität, Magnetismus, elektromagnetische Felder",
         "en": "P7_Optics, Electricity, Magnetism, Electromagnetic fields"
       }
     },
     {
-      "id": "https://www.int.fraunhofer.de/P8_Plasmaphysik_Fusion_Hochtemperaturphysik",
+      "id": "https://www.int.fraunhofer.de/P8",
       "prefLabel": {
         "de": "P8_Plasmaphysik, Fusion, Hochtemperaturphysik",
         "en": "P8_Plasma physics, Fusion, High-Temperature physics"
