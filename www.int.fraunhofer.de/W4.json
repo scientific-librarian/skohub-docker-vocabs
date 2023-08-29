@@ -3,14 +3,14 @@
   "type": "Concept",
   "prefLabel": {
     "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen",
-    "en": "W4_Security policy,General defense questions"
+    "en": "W4_Security policy, General defense questions"
   },
   "altLabel": {
     "de": [
       "W4_Verteidigungspolitik, allgemeine Sicherheitsfragen"
     ],
     "en": [
-      "W4_Defense policy,General security questions"
+      "W4_Defense policy, General security questions"
     ]
   },
   "broader": {

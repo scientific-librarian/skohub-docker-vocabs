@@ -47,14 +47,14 @@
       "id": "https://www.int.fraunhofer.de/W3",
       "prefLabel": {
         "de": "W3_Kernwaffen, Kernwaffenwirkung",
-        "en": "W3_Nuclear weapons, Nuclear Weapons effect"
+        "en": "W3_Nuclear weapons, Nuclear weapons effect"
       }
     },
     {
       "id": "https://www.int.fraunhofer.de/W4",
       "prefLabel": {
         "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen",
-        "en": "W4_Security policy,General defense questions"
+        "en": "W4_Security policy, General defense questions"
       }
     }
   ],
