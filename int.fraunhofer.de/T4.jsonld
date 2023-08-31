@@ -13,6 +13,10 @@
       "T4_Technique optics, Coherent light, Lehre von Lichtteilchen"
     ]
   },
+  "definition": {
+    "de": "T4",
+    "en": "T4"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {

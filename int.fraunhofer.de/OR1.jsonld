@@ -13,6 +13,10 @@
       "OR1_Mathematics procedure, Theory of decision, Original OR"
     ]
   },
+  "definition": {
+    "de": "OR1",
+    "en": "OR1"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/OR",
     "prefLabel": {

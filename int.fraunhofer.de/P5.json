@@ -13,6 +13,10 @@
       "P5_Mechanism, Dynamic physics, Terminal ballistics, Synergism"
     ]
   },
+  "definition": {
+    "de": "P5",
+    "en": "P5"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

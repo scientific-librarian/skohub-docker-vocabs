@@ -13,6 +13,10 @@
       "M2_General algebra, Spatial science"
     ]
   },
+  "definition": {
+    "de": "M2",
+    "en": "M2"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {

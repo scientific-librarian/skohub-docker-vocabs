@@ -13,6 +13,10 @@
       "A2_Vocabulary"
     ]
   },
+  "definition": {
+    "de": "A2",
+    "en": "A2"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/A",
     "prefLabel": {

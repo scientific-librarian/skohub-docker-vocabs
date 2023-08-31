@@ -13,6 +13,10 @@
       "T3_E-technics, Electrics, Semiconductor-technics"
     ]
   },
+  "definition": {
+    "de": "T3",
+    "en": "T3"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {

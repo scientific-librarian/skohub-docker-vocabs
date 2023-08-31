@@ -13,6 +13,10 @@
       "W0_Universal"
     ]
   },
+  "definition": {
+    "de": "W0",
+    "en": "W0"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {

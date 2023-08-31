@@ -13,6 +13,10 @@
       "A0_Miscellaneous"
     ]
   },
+  "definition": {
+    "de": "A0",
+    "en": "A0"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/A",
     "prefLabel": {

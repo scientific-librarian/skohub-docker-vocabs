@@ -13,6 +13,10 @@
       "W2_Military technology, Defense Practice, Defense training"
     ]
   },
+  "definition": {
+    "de": "W2",
+    "en": "W2"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {

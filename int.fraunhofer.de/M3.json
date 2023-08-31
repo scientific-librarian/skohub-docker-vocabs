@@ -13,6 +13,10 @@
       "Functions"
     ]
   },
+  "definition": {
+    "de": "M3",
+    "en": "M3"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {

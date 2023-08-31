@@ -13,6 +13,10 @@
       "OR2_Use, Assessment, Methods, Perspective research, Technology impact"
     ]
   },
+  "definition": {
+    "de": "OR2",
+    "en": "OR2"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/OR",
     "prefLabel": {

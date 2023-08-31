@@ -13,6 +13,10 @@
       "OR0_Basic terms, Regulatory sciences, Complex Theory"
     ]
   },
+  "definition": {
+    "de": "OR0",
+    "en": "OR0"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/OR",
     "prefLabel": {

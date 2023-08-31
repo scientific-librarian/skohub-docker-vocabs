@@ -13,6 +13,10 @@
       "T5_Variable message sign system, Engine technology, Power engineering, Cooling technology, Material technology, Space flight"
     ]
   },
+  "definition": {
+    "de": "T5",
+    "en": "T5"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {

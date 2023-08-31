@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "BC",
+    "en": "BC"
+  },
   "inScheme": [
     {
       "id": "https://int.fraunhofer.de/",

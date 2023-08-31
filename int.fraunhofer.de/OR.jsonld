@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "OR0-OR2",
+    "en": "OR0-OR2"
+  },
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/OR0",

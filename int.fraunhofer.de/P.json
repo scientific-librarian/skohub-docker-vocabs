@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "P0-P2",
+    "en": "P0-P8"
+  },
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/P0",

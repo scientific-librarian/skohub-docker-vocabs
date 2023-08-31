@@ -13,6 +13,10 @@
       "M1_Tablebooks, Compendium"
     ]
   },
+  "definition": {
+    "de": "M1",
+    "en": "M1"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {

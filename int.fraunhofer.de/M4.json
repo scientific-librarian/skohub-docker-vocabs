@@ -13,6 +13,10 @@
       "M4_Quantitative information, Probability theory "
     ]
   },
+  "definition": {
+    "de": "M4",
+    "en": "M4"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {

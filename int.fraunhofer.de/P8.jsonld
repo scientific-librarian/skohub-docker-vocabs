@@ -13,6 +13,10 @@
       "P8_Formed physics, Nuclear fusion, physics of temperature"
     ]
   },
+  "definition": {
+    "de": "P8",
+    "en": "P8"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

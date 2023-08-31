@@ -13,6 +13,10 @@
       "W1_Tablebooks, Compedium"
     ]
   },
+  "definition": {
+    "de": "W1",
+    "en": "W1"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {

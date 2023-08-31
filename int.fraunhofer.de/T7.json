@@ -13,6 +13,10 @@
       "Radioactive protection"
     ]
   },
+  "definition": {
+    "de": "T7",
+    "en": "T7"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {

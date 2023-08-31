@@ -13,6 +13,10 @@
       "P0_Unviversal, Reference books, User manual"
     ]
   },
+  "definition": {
+    "de": "P0",
+    "en": "P0"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

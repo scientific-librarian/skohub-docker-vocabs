@@ -13,6 +13,10 @@
       "M0_Reference books"
     ]
   },
+  "definition": {
+    "de": "M0",
+    "en": "M0"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {

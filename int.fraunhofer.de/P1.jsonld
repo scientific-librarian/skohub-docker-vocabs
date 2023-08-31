@@ -13,6 +13,10 @@
       "P1_Tablebooks, Compendium"
     ]
   },
+  "definition": {
+    "de": "P1",
+    "en": "P1"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

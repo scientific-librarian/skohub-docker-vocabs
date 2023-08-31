@@ -13,6 +13,10 @@
       "T0_Universal, Reference books"
     ]
   },
+  "definition": {
+    "de": "T0",
+    "en": "T0"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {

@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "T0-T8",
+    "en": "PT0-T8"
+  },
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/T0",

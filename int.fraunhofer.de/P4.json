@@ -13,6 +13,10 @@
       "P4_Nuclear physics, Solid State physics, Radiation physics,Amorphous semiconductor"
     ]
   },
+  "definition": {
+    "de": "P4",
+    "en": "P4"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

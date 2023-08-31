@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "W0-W4",
+    "en": "W0-W4"
+  },
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/W0",

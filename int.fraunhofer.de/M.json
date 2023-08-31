@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "M0-M5",
+    "en": "M0-M5"
+  },
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/M0",

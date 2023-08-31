@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "GA",
+    "en": "GA"
+  },
   "inScheme": [
     {
       "id": "https://int.fraunhofer.de/",

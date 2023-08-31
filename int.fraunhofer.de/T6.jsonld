@@ -13,6 +13,10 @@
       "T6_Atomic energy, Nuclear reactor physics, Nucleon wave, Radioactivity wave, Atomic technology"
     ]
   },
+  "definition": {
+    "de": "T6",
+    "en": "T6"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {

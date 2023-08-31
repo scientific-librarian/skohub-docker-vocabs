@@ -13,6 +13,10 @@
       "M5_Numerics"
     ]
   },
+  "definition": {
+    "de": "M5",
+    "en": "M5"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {

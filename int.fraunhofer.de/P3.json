@@ -13,6 +13,10 @@
       "P3_Atom physics, Nucleon physics"
     ]
   },
+  "definition": {
+    "de": "P3",
+    "en": "P3"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

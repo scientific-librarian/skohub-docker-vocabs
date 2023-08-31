@@ -13,6 +13,10 @@
       "P6_Heat theory,physics statistics,Optimal transport theory"
     ]
   },
+  "definition": {
+    "de": "P6",
+    "en": "P6"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

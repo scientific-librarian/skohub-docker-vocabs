@@ -13,6 +13,10 @@
       "W4_Defense policy, General security questions"
     ]
   },
+  "definition": {
+    "de": "W4",
+    "en": "W4"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {

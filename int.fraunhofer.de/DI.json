@@ -21,6 +21,10 @@
       "Internal information for library staff"
     ]
   },
+  "definition": {
+    "de": "DI",
+    "en": "DI"
+  },
   "inScheme": [
     {
       "id": "https://int.fraunhofer.de/",

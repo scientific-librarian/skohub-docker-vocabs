@@ -13,6 +13,10 @@
       "P2_Math methods of physics"
     ]
   },
+  "definition": {
+    "de": "P2",
+    "en": "P2"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {

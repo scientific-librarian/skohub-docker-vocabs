@@ -13,6 +13,10 @@
       "W3_Atomic weapons, Atomic weapons effect"
     ]
   },
+  "definition": {
+    "de": "W3",
+    "en": "W3"
+  },
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {
