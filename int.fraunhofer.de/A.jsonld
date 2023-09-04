@@ -2,15 +2,15 @@
   "id": "https://int.fraunhofer.de/A",
   "type": "Concept",
   "prefLabel": {
-    "de": "A_Allgemeines",
-    "en": "A_General"
+    "de": "Allgemeines",
+    "en": "General"
   },
   "altLabel": {
     "de": [
-      "A_Universelles"
+      "Universelles"
     ],
     "en": [
-      "A_Universal"
+      "Universal"
     ]
   },
   "hiddenLabel": {
@@ -21,30 +21,29 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "A0-A2",
-    "en": "A0-A2"
-  },
+  "notation": [
+    "A0-A2"
+  ],
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/A0",
       "prefLabel": {
-        "de": "A0_Verschiedenes",
-        "en": "A0_Various"
+        "de": "Verschiedenes",
+        "en": "Various"
       }
     },
     {
       "id": "https://int.fraunhofer.de/A1",
       "prefLabel": {
-        "de": "A1_Lexika_alternative_Nachschlagewerke",
-        "en": "A1_Lexica, Alternative reference books"
+        "de": "Lexika_alternative_Nachschlagewerke",
+        "en": "Lexica, Alternative reference books"
       }
     },
     {
       "id": "https://int.fraunhofer.de/A2",
       "prefLabel": {
-        "de": "A2_Wörterbücher",
-        "en": "A2_Dictionaries"
+        "de": "Wörterbücher",
+        "en": "Dictionaries"
       }
     }
   ],

@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T5",
   "type": "Concept",
   "prefLabel": {
-    "de": "T5_Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt",
+    "de": "Verkehrstechnik, Antriebstechnik, Energietechnik, Kältetechnik, Werkstofftechnik, Raumfahrt",
     "en": "Traffic engineering, Drive engineering, Power engineering, Refrigeration, Material engineering, Aerospace"
   },
   "altLabel": {
     "de": [
-      "T5_Wechselverkehrszeichenanlage, Motortechnik, Stromtechnik, Kühltechnik, Materialtechnik, Weltraumfahrt"
+      "Wechselverkehrszeichenanlage, Motortechnik, Stromtechnik, Kühltechnik, Materialtechnik, Weltraumfahrt"
     ],
     "en": [
-      "T5_Variable message sign system, Engine technology, Power engineering, Cooling technology, Material technology, Space flight"
+      "Variable message sign system, Engine technology, Power engineering, Cooling technology, Material technology, Space flight"
     ]
   },
-  "definition": {
-    "de": "T5",
-    "en": "T5"
-  },
+  "notation": [
+    "T5"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

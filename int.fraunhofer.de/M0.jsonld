@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/M0",
   "type": "Concept",
   "prefLabel": {
-    "de": "M0_Allgemeines, Lehrbücher",
-    "en": "M0_General, Textbooks"
+    "de": "Allgemeines, Lehrbücher",
+    "en": "General, Textbooks"
   },
   "altLabel": {
     "de": [
-      "M0_Universelles, Fachbücher"
+      "Universelles, Fachbücher"
     ],
     "en": [
-      "M0_Reference books"
+      "Reference books"
     ]
   },
-  "definition": {
-    "de": "M0",
-    "en": "M0"
-  },
+  "notation": [
+    "M0"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {
-      "de": "M_Mathematik",
-      "en": "M_Mathematics"
+      "de": "Mathematik",
+      "en": "Mathematics"
     }
   },
   "inScheme": [

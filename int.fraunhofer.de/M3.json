@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/M3",
   "type": "Concept",
   "prefLabel": {
-    "de": "M3_Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen",
-    "en": "M3_Analysis, Functional analysis, Functional theory, Special functions"
+    "de": "Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen",
+    "en": "Analysis, Functional analysis, Functional theory, Special functions"
   },
   "altLabel": {
     "de": [
-      "M3_Analyse, Funktionen"
+      "Analyse, Funktionen"
     ],
     "en": [
       "Functions"
     ]
   },
-  "definition": {
-    "de": "M3",
-    "en": "M3"
-  },
+  "notation": [
+    "M3"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {
-      "de": "M_Mathematik",
-      "en": "M_Mathematics"
+      "de": "Mathematik",
+      "en": "Mathematics"
     }
   },
   "inScheme": [

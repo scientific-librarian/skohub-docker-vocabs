@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T8",
   "type": "Concept",
   "prefLabel": {
-    "de": "T8_Technische Akustik, Wasserschall, Seismik",
-    "en": "T8_Technical acoustics,Water sonic, Seismic"
+    "de": "Technische Akustik, Wasserschall, Seismik",
+    "en": "Technical acoustics,Water sonic, Seismic"
   },
   "altLabel": {
     "de": [
-      "T8_Technischer Klang, Wasserklang, Angewandte Geophysik"
+      "Technischer Klang, Wasserklang, Angewandte Geophysik"
     ],
     "en": [
-      "T8_Technical sound, Water sound, Applied geophysics"
+      "Technical sound, Water sound, Applied geophysics"
     ]
   },
-  "definition": {
-    "de": "T8",
-    "en": "T8"
-  },
+  "notation": [
+    "T8"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

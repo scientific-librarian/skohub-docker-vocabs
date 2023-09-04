@@ -2,15 +2,15 @@
   "id": "https://int.fraunhofer.de/P",
   "type": "Concept",
   "prefLabel": {
-    "de": "P_Physik",
-    "en": "P_physics"
+    "de": "Physik",
+    "en": "physics"
   },
   "altLabel": {
     "de": [
-      "P_Physikalisch"
+      "Physikalisch"
     ],
     "en": [
-      "P_Physical"
+      "Physical"
     ]
   },
   "hiddenLabel": {
@@ -21,72 +21,70 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "P0-P2",
-    "en": "P0-P8"
-  },
+  "notation": [
+    "P0-P2"
+  ],
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/P0",
       "prefLabel": {
-        "de": "P0_Allgemeines, Lehrbücher, Handbücher",
-        "en": "P0_General, Textbooks, Manuals"
+        "de": "Allgemeines, Lehrbücher, Handbücher",
+        "en": "General, Textbooks, Manuals"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P1",
       "prefLabel": {
-        "de": "P1_Tabellen, Nachschlagewerke",
-        "en": "P0_Tables, Reference books"
+        "de": "Tabellen, Nachschlagewerke",
+        "en": "Tables, Reference books"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P2",
       "prefLabel": {
-        "de": "P2_Mathematische Mehtoden der Physik",
-        "en": "P2_Mathematical methods of physics"
+        "de": "Mathematische Mehtoden der Physik",
+        "en": "Mathematical methods of physics"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P3",
       "prefLabel": {
-        "de": "P3_Kernphysik, Neutronenphysik",
-        "en": "P3_Nuclear physics, Neutronics physics"
+        "de": "Kernphysik, Neutronenphysik",
+        "en": "Nuclear physics, Neutronics physics"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P4",
       "prefLabel": {
-        "de": "P4_Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik",
-        "en": "P4_Atomic physics, Solid state physics, Radiation effects, Semiconductor physics"
+        "de": "Atomphysik, Festkörperphysik, Strahlungseffekte, Halbleiterphysik",
+        "en": "Atomic physics, Solid state physics, Radiation effects, Semiconductor physics"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P5",
       "prefLabel": {
-        "de": "P5 Mechanik, Hydrodynamik, Gasdynamik, Ballistik, Synergetik",
-        "en": "P5_Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic"
+        "en": "Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P6",
       "prefLabel": {
-        "de": "P6_Thermodynamik, Statistische Physik, Transporttheorie",
-        "en": "P6_Thermodynamics, Statistical physics, Transportation theory"
+        "de": "Thermodynamik, Statistische Physik, Transporttheorie",
+        "en": "Thermodynamics, Statistical physics, Transportation theory"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P7",
       "prefLabel": {
-        "de": "P7_Optik, Elektrizität, Magnetismus, elektromagnetische Felder",
-        "en": "P7_Optics, Electricity, Magnetism, Electromagnetic fields"
+        "de": "Optik, Elektrizität, Magnetismus, elektromagnetische Felder",
+        "en": "Optics, Electricity, Magnetism, Electromagnetic fields"
       }
     },
     {
       "id": "https://int.fraunhofer.de/P8",
       "prefLabel": {
-        "de": "P8_Plasmaphysik, Fusion, Hochtemperaturphysik",
-        "en": "P8_Plasma physics, Fusion, High-Temperature physics"
+        "de": "Plasmaphysik, Fusion, Hochtemperaturphysik",
+        "en": "Plasma physics, Fusion, High-Temperature physics"
       }
     }
   ],

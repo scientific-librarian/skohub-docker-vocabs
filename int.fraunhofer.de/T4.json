@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T4",
   "type": "Concept",
   "prefLabel": {
-    "de": "T4_Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik",
-    "en": "T4_Technical optics, Laser technology, Optronics, Photonics, IR-technics"
+    "de": "Technische Optik, Lasertechnik, Optronik, Photonik, IR-Technik",
+    "en": "Technical optics, Laser technology, Optronics, Photonics, IR-technics"
   },
   "altLabel": {
     "de": [
-      "T4_Technik Optik,Kohärentes Licht"
+      "Technik Optik,Kohärentes Licht"
     ],
     "en": [
-      "T4_Technique optics, Coherent light, Lehre von Lichtteilchen"
+      "Technique optics, Coherent light, Lehre von Lichtteilchen"
     ]
   },
-  "definition": {
-    "de": "T4",
-    "en": "T4"
-  },
+  "notation": [
+    "T4"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

@@ -2,15 +2,12 @@
   "id": "https://int.fraunhofer.de/W",
   "type": "Concept",
   "prefLabel": {
-    "de": "W_Wehrwissenschaft",
-    "en": "W_Defence science"
+    "de": "Wehrwissenschaft",
+    "en": "Defence science"
   },
   "altLabel": {
-    "de": [
-      "Militärwissenschaft"
-    ],
     "en": [
-      "W_Military science"
+      "Military science"
     ]
   },
   "hiddenLabel": {
@@ -21,44 +18,43 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "W0-W4",
-    "en": "W0-W4"
-  },
+  "notation": [
+    "W0-W4"
+  ],
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/W0",
       "prefLabel": {
-        "de": "W0_Allgemeines",
-        "en": "W0_General"
+        "de": "Allgemeines",
+        "en": "General"
       }
     },
     {
       "id": "https://int.fraunhofer.de/W1",
       "prefLabel": {
-        "de": "W1_Tabellen, Nachschlagewerke",
-        "en": "W1_Tables, Reference books"
+        "de": "Tabellen, Nachschlagewerke",
+        "en": "Tables, Reference books"
       }
     },
     {
       "id": "https://int.fraunhofer.de/W2",
       "prefLabel": {
-        "de": "W2_Wehrtechnik, Militärische Praxis, Militärische Ausbildung",
-        "en": "W2_Defense engineering, Military practice, Military training"
+        "de": "Wehrtechnik, Militärische Praxis, Militärische Ausbildung",
+        "en": "Defense engineering, Military practice, Military training"
       }
     },
     {
       "id": "https://int.fraunhofer.de/W3",
       "prefLabel": {
-        "de": "W3_Kernwaffen, Kernwaffenwirkung",
-        "en": "W3_Nuclear weapons, Nuclear weapons effect"
+        "de": "Kernwaffen, Kernwaffenwirkung",
+        "en": "Nuclear weapons, Nuclear weapons effect"
       }
     },
     {
       "id": "https://int.fraunhofer.de/W4",
       "prefLabel": {
-        "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen",
-        "en": "W4_Security policy, General defense questions"
+        "de": "Sicherheitspolitik, allgemeine Verteidigungsfragen",
+        "en": "Security policy, General defense questions"
       }
     }
   ],

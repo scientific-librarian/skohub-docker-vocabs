@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T2",
   "type": "Concept",
   "prefLabel": {
-    "de": "T2_Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik",
-    "en": "T2_Measurement technology, Experimental technology, Accelerator, Sensoric"
+    "de": "Messtechnik, Experimentiertechnik, Beschleuniger, Sensorik",
+    "en": "Measurement technology, Experimental technology, Accelerator, Sensoric"
   },
   "altLabel": {
     "de": [
-      "T2_Messmethoden, Versuchstechnik"
+      "Messmethoden, Versuchstechnik"
     ],
     "en": [
-      "T_Measurement methods, Experimental engineering"
+      "Measurement methods, Experimental engineering"
     ]
   },
-  "definition": {
-    "de": "T2",
-    "en": "T2"
-  },
+  "notation": [
+    "T2"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

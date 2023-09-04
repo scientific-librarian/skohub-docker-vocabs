@@ -2,26 +2,24 @@
   "id": "https://int.fraunhofer.de/M5",
   "type": "Concept",
   "prefLabel": {
-    "de": "M5 Numerische Mathematik",
-    "en": "M5_Numerical mathematics"
+    "en": "Numerical mathematics"
   },
   "altLabel": {
     "de": [
-      "M5_Numerik"
+      "Numerik"
     ],
     "en": [
-      "M5_Numerics"
+      "Numerics"
     ]
   },
-  "definition": {
-    "de": "M5",
-    "en": "M5"
-  },
+  "notation": [
+    "M5"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {
-      "de": "M_Mathematik",
-      "en": "M_Mathematics"
+      "de": "Mathematik",
+      "en": "Mathematics"
     }
   },
   "inScheme": [

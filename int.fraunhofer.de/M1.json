@@ -2,26 +2,22 @@
   "id": "https://int.fraunhofer.de/M1",
   "type": "Concept",
   "prefLabel": {
-    "de": "M1_Tabellen, Nachschlagewerke",
-    "en": "M1_Tables, Reference books"
+    "de": "Tabellen, Nachschlagewerke",
+    "en": "Tables, Reference books"
   },
   "altLabel": {
     "de": [
-      "M1_Tabellenbuch, Kompendium"
+      "Tabellenbuch, Kompendium"
     ],
     "en": [
-      "M1_Tablebooks, Compendium"
+      "Tablebooks, Compendium"
     ]
-  },
-  "definition": {
-    "de": "M1",
-    "en": "M1"
   },
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {
-      "de": "M_Mathematik",
-      "en": "M_Mathematics"
+      "de": "Mathematik",
+      "en": "Mathematics"
     }
   },
   "inScheme": [

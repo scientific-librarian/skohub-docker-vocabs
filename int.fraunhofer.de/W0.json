@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/W0",
   "type": "Concept",
   "prefLabel": {
-    "de": "W0_Allgemeines",
-    "en": "W0_General"
+    "de": "Allgemeines",
+    "en": "General"
   },
   "altLabel": {
     "de": [
-      "W0_Universelles"
+      "Universelles"
     ],
     "en": [
-      "W0_Universal"
+      "Universal"
     ]
   },
-  "definition": {
-    "de": "W0",
-    "en": "W0"
-  },
+  "notation": [
+    "W0"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {
-      "de": "W_Wehrwissenschaft",
-      "en": "W_Defence science"
+      "de": "Wehrwissenschaft",
+      "en": "Defence science"
     }
   },
   "inScheme": [

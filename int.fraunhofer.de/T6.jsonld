@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T6",
   "type": "Concept",
   "prefLabel": {
-    "de": "T6_Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik",
-    "en": "T6_Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering"
+    "de": "Kernenergie, Reaktorphysik, Neutronenwelle, Strahlungswelle, Kerntechnik",
+    "en": "Nuclear energy, Reactor physics, Neutron wave, Radiation wave, Nuclear Engineering"
   },
   "altLabel": {
     "de": [
-      "T6_Atomenergie, Kernreaktorphysik, Nukleonwelle, Radioaktivitätswelle, Atomtechnik"
+      "Atomenergie, Kernreaktorphysik, Nukleonwelle, Radioaktivitätswelle, Atomtechnik"
     ],
     "en": [
-      "T6_Atomic energy, Nuclear reactor physics, Nucleon wave, Radioactivity wave, Atomic technology"
+      "Atomic energy, Nuclear reactor physics, Nucleon wave, Radioactivity wave, Atomic technology"
     ]
   },
-  "definition": {
-    "de": "T6",
-    "en": "T6"
-  },
+  "notation": [
+    "T6"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

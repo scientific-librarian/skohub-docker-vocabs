@@ -2,26 +2,24 @@
   "id": "https://int.fraunhofer.de/T0",
   "type": "Concept",
   "prefLabel": {
-    "de": "T0 Allgemeines, Lehrbücher der Technik",
-    "en": "T0_General, Textbooks"
+    "en": "General, Textbooks"
   },
   "altLabel": {
     "de": [
-      "T0_Universelles, Fachbücher der Technik"
+      "Universelles, Fachbücher der Technik"
     ],
     "en": [
-      "T0_Universal, Reference books"
+      "Universal, Reference books"
     ]
   },
-  "definition": {
-    "de": "T0",
-    "en": "T0"
-  },
+  "notation": [
+    "T0"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

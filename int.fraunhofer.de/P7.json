@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/P7",
   "type": "Concept",
   "prefLabel": {
-    "de": "P7_Optik, Elektrizität, Magnetismus, elektromagnetische Felder",
-    "en": "P7_Optics, Electricity, Magnetism, Electromagnetic fields"
+    "de": "Optik, Elektrizität, Magnetismus, elektromagnetische Felder",
+    "en": "Optics, Electricity, Magnetism, Electromagnetic fields"
   },
   "altLabel": {
     "de": [
-      "P7_Lehre vom Licht, Strom, Elektromagnetismus, Magnetische Felder"
+      "Lehre vom Licht, Strom, Elektromagnetismus, Magnetische Felder"
     ],
     "en": [
-      "P7_Doctrine of light, Power, Electromagnetism, Magnetic fields"
+      "Doctrine of light, Power, Electromagnetism, Magnetic fields"
     ]
   },
-  "definition": {
-    "de": "P7",
-    "en": "P7"
-  },
+  "notation": [
+    "P7"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {
-      "de": "P_Physik",
-      "en": "P_physics"
+      "de": "Physik",
+      "en": "physics"
     }
   },
   "inScheme": [

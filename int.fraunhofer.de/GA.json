@@ -2,8 +2,8 @@
   "id": "https://int.fraunhofer.de/GA",
   "type": "Concept",
   "prefLabel": {
-    "de": "GA_Geowissenschaften, Astrophysik",
-    "en": "GA_Geosciences, Astro physics"
+    "de": "Geowissenschaften, Astrophysik",
+    "en": "Geosciences, Astro physics"
   },
   "altLabel": {
     "de": [
@@ -21,10 +21,9 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "GA",
-    "en": "GA"
-  },
+  "notation": [
+    "GA"
+  ],
   "inScheme": [
     {
       "id": "https://int.fraunhofer.de/",

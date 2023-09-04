@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T7",
   "type": "Concept",
   "prefLabel": {
-    "de": "T7_Strahlenschutz, Dosimetrie",
-    "en": "T7_Radiation protection, Dosimetry"
+    "de": "Strahlenschutz, Dosimetrie",
+    "en": "Radiation protection, Dosimetry"
   },
   "altLabel": {
     "de": [
-      "T7_Radioaktiver Schutz, Strahlendosimetrie"
+      "Radioaktiver Schutz, Strahlendosimetrie"
     ],
     "en": [
       "Radioactive protection"
     ]
   },
-  "definition": {
-    "de": "T7",
-    "en": "T7"
-  },
+  "notation": [
+    "T7"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

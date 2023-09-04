@@ -2,26 +2,24 @@
   "id": "https://int.fraunhofer.de/P5",
   "type": "Concept",
   "prefLabel": {
-    "de": "P5 Mechanik, Hydrodynamik, Gasdynamik, Ballistik, Synergetik",
-    "en": "P5_Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic"
+    "en": "Mechanics, Hydrodynamics, Gas dynamics, Ballistics, Synergetic"
   },
   "altLabel": {
     "de": [
-      "P5_Mechanismus, dynamische Physik, Terminalballistik, Synergismus"
+      "Mechanismus, dynamische Physik, Terminalballistik, Synergismus"
     ],
     "en": [
-      "P5_Mechanism, Dynamic physics, Terminal ballistics, Synergism"
+      "Mechanism, Dynamic physics, Terminal ballistics, Synergism"
     ]
   },
-  "definition": {
-    "de": "P5",
-    "en": "P5"
-  },
+  "notation": [
+    "P5"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {
-      "de": "P_Physik",
-      "en": "P_physics"
+      "de": "Physik",
+      "en": "physics"
     }
   },
   "inScheme": [

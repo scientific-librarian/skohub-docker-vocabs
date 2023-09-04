@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/W3",
   "type": "Concept",
   "prefLabel": {
-    "de": "W3_Kernwaffen, Kernwaffenwirkung",
-    "en": "W3_Nuclear weapons, Nuclear weapons effect"
+    "de": "Kernwaffen, Kernwaffenwirkung",
+    "en": "Nuclear weapons, Nuclear weapons effect"
   },
   "altLabel": {
     "de": [
-      "W3_Atomwaffen, Atomawaffenwirkung"
+      "Atomwaffen, Atomawaffenwirkung"
     ],
     "en": [
-      "W3_Atomic weapons, Atomic weapons effect"
+      "Atomic weapons, Atomic weapons effect"
     ]
   },
-  "definition": {
-    "de": "W3",
-    "en": "W3"
-  },
+  "notation": [
+    "W3"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {
-      "de": "W_Wehrwissenschaft",
-      "en": "W_Defence science"
+      "de": "Wehrwissenschaft",
+      "en": "Defence science"
     }
   },
   "inScheme": [

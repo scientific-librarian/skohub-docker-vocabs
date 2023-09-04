@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/A2",
   "type": "Concept",
   "prefLabel": {
-    "de": "A2_Wörterbücher",
-    "en": "A2_Dictionaries"
+    "de": "Wörterbücher",
+    "en": "Dictionaries"
   },
   "altLabel": {
     "de": [
-      "A2_Vokabularium"
+      "Vokabularium"
     ],
     "en": [
-      "A2_Vocabulary"
+      "Vocabulary"
     ]
   },
-  "definition": {
-    "de": "A2",
-    "en": "A2"
-  },
+  "notation": [
+    "A2"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/A",
     "prefLabel": {
-      "de": "A_Allgemeines",
-      "en": "A_General"
+      "de": "Allgemeines",
+      "en": "General"
     }
   },
   "inScheme": [

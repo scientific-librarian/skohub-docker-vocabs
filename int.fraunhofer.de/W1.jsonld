@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/W1",
   "type": "Concept",
   "prefLabel": {
-    "de": "W1_Tabellen, Nachschlagewerke",
-    "en": "W1_Tables, Reference books"
+    "de": "Tabellen, Nachschlagewerke",
+    "en": "Tables, Reference books"
   },
   "altLabel": {
     "de": [
-      "W1_Tabellenbuch, Kompendium"
+      "Tabellenbuch, Kompendium"
     ],
     "en": [
-      "W1_Tablebooks, Compedium"
+      "Tablebooks, Compedium"
     ]
   },
-  "definition": {
-    "de": "W1",
-    "en": "W1"
-  },
+  "notation": [
+    "W1"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {
-      "de": "W_Wehrwissenschaft",
-      "en": "W_Defence science"
+      "de": "Wehrwissenschaft",
+      "en": "Defence science"
     }
   },
   "inScheme": [

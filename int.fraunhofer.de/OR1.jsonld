@@ -2,26 +2,22 @@
   "id": "https://int.fraunhofer.de/OR1",
   "type": "Concept",
   "prefLabel": {
-    "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
-    "en": "OR1_Mathematical methods, Control theory, Game theory, Classic OR"
+    "de": "Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
+    "en": "Mathematical methods, Control theory, Game theory, Classic OR"
   },
   "altLabel": {
     "de": [
-      "OR1_Verfahren der Mathematik, Entscheidungstheorie, Ursprüngliches OR"
+      "Verfahren der Mathematik, Entscheidungstheorie, Ursprüngliches OR"
     ],
     "en": [
-      "OR1_Mathematics procedure, Theory of decision, Original OR"
+      "Mathematics procedure, Theory of decision, Original OR"
     ]
-  },
-  "definition": {
-    "de": "OR1",
-    "en": "OR1"
   },
   "broader": {
     "id": "https://int.fraunhofer.de/OR",
     "prefLabel": {
-      "de": "OR_Operations Research",
-      "en": "OR_Operations Research"
+      "de": "Operations Research",
+      "en": "Operations Research"
     }
   },
   "inScheme": [

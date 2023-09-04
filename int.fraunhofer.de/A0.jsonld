@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/A0",
   "type": "Concept",
   "prefLabel": {
-    "de": "A0_Verschiedenes",
-    "en": "A0_Various"
+    "de": "Verschiedenes",
+    "en": "Various"
   },
   "altLabel": {
     "de": [
-      "A0_Diverses"
+      "Diverses"
     ],
     "en": [
-      "A0_Miscellaneous"
+      "Miscellaneous"
     ]
   },
-  "definition": {
-    "de": "A0",
-    "en": "A0"
-  },
+  "notation": [
+    "A0"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/A",
     "prefLabel": {
-      "de": "A_Allgemeines",
-      "en": "A_General"
+      "de": "Allgemeines",
+      "en": "General"
     }
   },
   "inScheme": [

@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/A1",
   "type": "Concept",
   "prefLabel": {
-    "de": "A1_Lexika_alternative_Nachschlagewerke",
-    "en": "A1_Lexica, Alternative reference books"
+    "de": "Lexika_alternative_Nachschlagewerke",
+    "en": "Lexica, Alternative reference books"
   },
   "altLabel": {
     "de": [
-      "A1_Enzyklopädie, Kompendium"
+      "Enzyklopädie, Kompendium"
     ],
     "en": [
-      "A1_Encyclopedia, Compendium"
+      "Encyclopedia, Compendium"
     ]
   },
-  "definition": {
-    "de": "A1",
-    "en": "A1"
-  },
+  "notation": [
+    "A1"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/A",
     "prefLabel": {
-      "de": "A_Allgemeines",
-      "en": "A_General"
+      "de": "Allgemeines",
+      "en": "General"
     }
   },
   "inScheme": [

@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/P1",
   "type": "Concept",
   "prefLabel": {
-    "de": "P1_Tabellen, Nachschlagewerke",
-    "en": "P0_Tables, Reference books"
+    "de": "Tabellen, Nachschlagewerke",
+    "en": "Tables, Reference books"
   },
   "altLabel": {
     "de": [
-      "P1_Tabellenbuch, Kompendium"
+      "Tabellenbuch, Kompendium"
     ],
     "en": [
-      "P1_Tablebooks, Compendium"
+      "Tablebooks, Compendium"
     ]
   },
-  "definition": {
-    "de": "P1",
-    "en": "P1"
-  },
+  "notation": [
+    "P1"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {
-      "de": "P_Physik",
-      "en": "P_physics"
+      "de": "Physik",
+      "en": "physics"
     }
   },
   "inScheme": [

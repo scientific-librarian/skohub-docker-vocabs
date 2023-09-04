@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/OR0",
   "type": "Concept",
   "prefLabel": {
-    "de": "OR0_Grundlagen, Systemwissenschaften, Komplexitätstheorie",
-    "en": "OR0_Basics, System sciences, Theory of complexity"
+    "de": "Grundlagen, Systemwissenschaften, Komplexitätstheorie",
+    "en": "Basics, System sciences, Theory of complexity"
   },
   "altLabel": {
     "de": [
-      "OR0_Grundbegriffe, Ordnungswissenschaften, Komplextheorie"
+      "Grundbegriffe, Ordnungswissenschaften, Komplextheorie"
     ],
     "en": [
-      "OR0_Basic terms, Regulatory sciences, Complex Theory"
+      "Basic terms, Regulatory sciences, Complex Theory"
     ]
   },
-  "definition": {
-    "de": "OR0",
-    "en": "OR0"
-  },
+  "notation": [
+    "OR0"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/OR",
     "prefLabel": {
-      "de": "OR_Operations Research",
-      "en": "OR_Operations Research"
+      "de": "Operations Research",
+      "en": "Operations Research"
     }
   },
   "inScheme": [

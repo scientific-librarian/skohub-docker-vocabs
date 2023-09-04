@@ -2,15 +2,15 @@
   "id": "https://int.fraunhofer.de/OR",
   "type": "Concept",
   "prefLabel": {
-    "de": "OR_Operations Research",
-    "en": "OR_Operations Research"
+    "de": "Operations Research",
+    "en": "Operations Research"
   },
   "altLabel": {
     "de": [
-      "OR_Betriebsforschung"
+      "Betriebsforschung"
     ],
     "en": [
-      "OR_Business Research"
+      "Business Research"
     ]
   },
   "hiddenLabel": {
@@ -21,30 +21,29 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "OR0-OR2",
-    "en": "OR0-OR2"
-  },
+  "notation": [
+    "OR0-OR2"
+  ],
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/OR0",
       "prefLabel": {
-        "de": "OR0_Grundlagen, Systemwissenschaften, Komplexitätstheorie",
-        "en": "OR0_Basics, System sciences, Theory of complexity"
+        "de": "Grundlagen, Systemwissenschaften, Komplexitätstheorie",
+        "en": "Basics, System sciences, Theory of complexity"
       }
     },
     {
       "id": "https://int.fraunhofer.de/OR1",
       "prefLabel": {
-        "de": "OR1_Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
-        "en": "OR1_Mathematical methods, Control theory, Game theory, Classic OR"
+        "de": "Mathematische Verfahren, Kontrolltheorie, Spieltheorie, Klassiches OR",
+        "en": "Mathematical methods, Control theory, Game theory, Classic OR"
       }
     },
     {
       "id": "https://int.fraunhofer.de/OR2",
       "prefLabel": {
-        "de": "OR2_Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen",
-        "en": "OR2_Applications, Forecasts, Models, Technology implications"
+        "de": "Anwendungen, Prognosen, Modelle, Zukunftsforschung, Technologiefolgen",
+        "en": "Applications, Forecasts, Models, Technology implications"
       }
     }
   ],

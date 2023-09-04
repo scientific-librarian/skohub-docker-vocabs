@@ -2,15 +2,15 @@
   "id": "https://int.fraunhofer.de/M",
   "type": "Concept",
   "prefLabel": {
-    "de": "M_Mathematik",
-    "en": "M_Mathematics"
+    "de": "Mathematik",
+    "en": "Mathematics"
   },
   "altLabel": {
     "de": [
-      "M_Mathe"
+      "Mathe"
     ],
     "en": [
-      "M_Math"
+      "Math"
     ]
   },
   "hiddenLabel": {
@@ -21,51 +21,49 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "M0-M5",
-    "en": "M0-M5"
-  },
+  "notation": [
+    "M0-M5"
+  ],
   "narrower": [
     {
       "id": "https://int.fraunhofer.de/M0",
       "prefLabel": {
-        "de": "M0_Allgemeines, Lehrbücher",
-        "en": "M0_General, Textbooks"
+        "de": "Allgemeines, Lehrbücher",
+        "en": "General, Textbooks"
       }
     },
     {
       "id": "https://int.fraunhofer.de/M1",
       "prefLabel": {
-        "de": "M1_Tabellen, Nachschlagewerke",
-        "en": "M1_Tables, Reference books"
+        "de": "Tabellen, Nachschlagewerke",
+        "en": "Tables, Reference books"
       }
     },
     {
       "id": "https://int.fraunhofer.de/M2",
       "prefLabel": {
-        "de": "M2_Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie",
-        "en": "M2_Algebra, Group theory, Geometry, Arimetry, Theory of numbers"
+        "de": "Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie",
+        "en": "Algebra, Group theory, Geometry, Arimetry, Theory of numbers"
       }
     },
     {
       "id": "https://int.fraunhofer.de/M3",
       "prefLabel": {
-        "de": "M3_Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen",
-        "en": "M3_Analysis, Functional analysis, Functional theory, Special functions"
+        "de": "Analysis, Funktionsanalysis, Funktionstheorie, Spezielle Funktionen",
+        "en": "Analysis, Functional analysis, Functional theory, Special functions"
       }
     },
     {
       "id": "https://int.fraunhofer.de/M4",
       "prefLabel": {
-        "de": "M4_Statistik, Wahrscheinlichkeitsrechnung",
-        "en": "M4_Statistics, Probability calculation"
+        "de": "Statistik, Wahrscheinlichkeitsrechnung",
+        "en": "Statistics, Probability calculation"
       }
     },
     {
       "id": "https://int.fraunhofer.de/M5",
       "prefLabel": {
-        "de": "M5 Numerische Mathematik",
-        "en": "M5_Numerical mathematics"
+        "en": "Numerical mathematics"
       }
     }
   ],

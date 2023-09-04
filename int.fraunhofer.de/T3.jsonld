@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/T3",
   "type": "Concept",
   "prefLabel": {
-    "de": "T3_Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik",
-    "en": "T3_Electrical engineering, Electronic, HF-Technics, Semiconductor technics"
+    "de": "Elektrotechnik, Elektronik, HF-Technik, Halbleitertechnik",
+    "en": "Electrical engineering, Electronic, HF-Technics, Semiconductor technics"
   },
   "altLabel": {
     "de": [
-      "T3_E-Technik, Elektrik, Halbleiter-Technik"
+      "E-Technik, Elektrik, Halbleiter-Technik"
     ],
     "en": [
-      "T3_E-technics, Electrics, Semiconductor-technics"
+      "E-technics, Electrics, Semiconductor-technics"
     ]
   },
-  "definition": {
-    "de": "T3",
-    "en": "T3"
-  },
+  "notation": [
+    "T3"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/T",
     "prefLabel": {
-      "de": "T_Technik",
-      "en": "T_Technics"
+      "de": "Technik",
+      "en": "Technics"
     }
   },
   "inScheme": [

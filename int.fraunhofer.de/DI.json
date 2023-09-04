@@ -2,15 +2,15 @@
   "id": "https://int.fraunhofer.de/DI",
   "type": "Concept",
   "prefLabel": {
-    "de": "DI_Datenverarbeitung, Informatik, Informationsverarbeitung, Programmiersprache, Künstliche Intelligenz",
-    "en": "DI_Data proceesing, Informatics, Information processing, Programming language, Artificial intelligence"
+    "de": "Datenverarbeitung, Informatik, Informationsverarbeitung, Programmiersprache, Künstliche Intelligenz",
+    "en": "Data proceesing, Informatics, Information processing, Programming language, Artificial intelligence"
   },
   "altLabel": {
     "de": [
-      "DI_Dateninformatik, KI"
+      "Dateninformatik, KI"
     ],
     "en": [
-      "DI_Data science, AI"
+      "Data science, AI"
     ]
   },
   "hiddenLabel": {
@@ -21,10 +21,9 @@
       "Internal information for library staff"
     ]
   },
-  "definition": {
-    "de": "DI",
-    "en": "DI"
-  },
+  "notation": [
+    "DI"
+  ],
   "inScheme": [
     {
       "id": "https://int.fraunhofer.de/",

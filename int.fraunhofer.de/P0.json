@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/P0",
   "type": "Concept",
   "prefLabel": {
-    "de": "P0_Allgemeines, Lehrbücher, Handbücher",
-    "en": "P0_General, Textbooks, Manuals"
+    "de": "Allgemeines, Lehrbücher, Handbücher",
+    "en": "General, Textbooks, Manuals"
   },
   "altLabel": {
     "de": [
-      "P0_Universelles, Fachbücher, Handbuch"
+      "Universelles, Fachbücher, Handbuch"
     ],
     "en": [
-      "P0_Unviversal, Reference books, User manual"
+      "Unviversal, Reference books, User manual"
     ]
   },
-  "definition": {
-    "de": "P0",
-    "en": "P0"
-  },
+  "notation": [
+    "P0"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/P",
     "prefLabel": {
-      "de": "P_Physik",
-      "en": "P_physics"
+      "de": "Physik",
+      "en": "physics"
     }
   },
   "inScheme": [

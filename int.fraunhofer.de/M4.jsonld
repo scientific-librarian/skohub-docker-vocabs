@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/M4",
   "type": "Concept",
   "prefLabel": {
-    "de": "M4_Statistik, Wahrscheinlichkeitsrechnung",
-    "en": "M4_Statistics, Probability calculation"
+    "de": "Statistik, Wahrscheinlichkeitsrechnung",
+    "en": "Statistics, Probability calculation"
   },
   "altLabel": {
     "de": [
-      "M4_Quantitative Informationen, Wahrscheinlichkeitslehre"
+      "Quantitative Informationen, Wahrscheinlichkeitslehre"
     ],
     "en": [
-      "M4_Quantitative information, Probability theory "
+      "Quantitative information, Probability theory "
     ]
   },
-  "definition": {
-    "de": "M4",
-    "en": "M4"
-  },
+  "notation": [
+    "M4"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {
-      "de": "M_Mathematik",
-      "en": "M_Mathematics"
+      "de": "Mathematik",
+      "en": "Mathematics"
     }
   },
   "inScheme": [

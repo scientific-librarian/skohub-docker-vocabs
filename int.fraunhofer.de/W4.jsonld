@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/W4",
   "type": "Concept",
   "prefLabel": {
-    "de": "W4_Sicherheitspolitik, allgemeine Verteidigungsfragen",
-    "en": "W4_Security policy, General defense questions"
+    "de": "Sicherheitspolitik, allgemeine Verteidigungsfragen",
+    "en": "Security policy, General defense questions"
   },
   "altLabel": {
     "de": [
-      "W4_Verteidigungspolitik, allgemeine Sicherheitsfragen"
+      "Verteidigungspolitik, allgemeine Sicherheitsfragen"
     ],
     "en": [
-      "W4_Defense policy, General security questions"
+      "Defense policy, General security questions"
     ]
   },
-  "definition": {
-    "de": "W4",
-    "en": "W4"
-  },
+  "notation": [
+    "W4"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {
-      "de": "W_Wehrwissenschaft",
-      "en": "W_Defence science"
+      "de": "Wehrwissenschaft",
+      "en": "Defence science"
     }
   },
   "inScheme": [

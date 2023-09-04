@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/W2",
   "type": "Concept",
   "prefLabel": {
-    "de": "W2_Wehrtechnik, Militärische Praxis, Militärische Ausbildung",
-    "en": "W2_Defense engineering, Military practice, Military training"
+    "de": "Wehrtechnik, Militärische Praxis, Militärische Ausbildung",
+    "en": "Defense engineering, Military practice, Military training"
   },
   "altLabel": {
     "de": [
-      "W2_Militärtechnik, Wehrpraxis, Wehrausblidung"
+      "Militärtechnik, Wehrpraxis, Wehrausblidung"
     ],
     "en": [
-      "W2_Military technology, Defense Practice, Defense training"
+      "Military technology, Defense Practice, Defense training"
     ]
   },
-  "definition": {
-    "de": "W2",
-    "en": "W2"
-  },
+  "notation": [
+    "W2"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/W",
     "prefLabel": {
-      "de": "W_Wehrwissenschaft",
-      "en": "W_Defence science"
+      "de": "Wehrwissenschaft",
+      "en": "Defence science"
     }
   },
   "inScheme": [

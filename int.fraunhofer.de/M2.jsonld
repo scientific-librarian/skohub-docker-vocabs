@@ -2,26 +2,25 @@
   "id": "https://int.fraunhofer.de/M2",
   "type": "Concept",
   "prefLabel": {
-    "de": "M2_Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie",
-    "en": "M2_Algebra, Group theory, Geometry, Arimetry, Theory of numbers"
+    "de": "Algebra, Gruppentheorie, Geometrie, Arimetrie, Zahlentheorie",
+    "en": "Algebra, Group theory, Geometry, Arimetry, Theory of numbers"
   },
   "altLabel": {
     "de": [
-      "M2_Allgemeine Algebra, Raumlehre"
+      "Allgemeine Algebra, Raumlehre"
     ],
     "en": [
-      "M2_General algebra, Spatial science"
+      "General algebra, Spatial science"
     ]
   },
-  "definition": {
-    "de": "M2",
-    "en": "M2"
-  },
+  "notation": [
+    "M2"
+  ],
   "broader": {
     "id": "https://int.fraunhofer.de/M",
     "prefLabel": {
-      "de": "M_Mathematik",
-      "en": "M_Mathematics"
+      "de": "Mathematik",
+      "en": "Mathematics"
     }
   },
   "inScheme": [
