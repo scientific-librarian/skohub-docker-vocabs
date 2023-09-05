@@ -63,6 +63,7 @@
     {
       "id": "https://int.fraunhofer.de/M5",
       "prefLabel": {
+        "de": "Numerische Mathematik",
         "en": "Numerical mathematics"
       }
     }

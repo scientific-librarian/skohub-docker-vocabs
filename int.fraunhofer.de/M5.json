@@ -2,6 +2,7 @@
   "id": "https://int.fraunhofer.de/M5",
   "type": "Concept",
   "prefLabel": {
+    "de": "Numerische Mathematik",
     "en": "Numerical mathematics"
   },
   "altLabel": {
